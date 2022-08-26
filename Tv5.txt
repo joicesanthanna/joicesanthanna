@@ -739,68 +739,6 @@ http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054448
 http://stbup.com:80/Wendel4022/nM4cL1lsLU/8944
 #EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 8 SDᴮᴿ
 http://stbup.com:80/Wendel4022/nM4cL1lsLU/10055186
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL FHD 1" tvg-logo="" group-title="ESPORTES ESPECIAIS",COPA DO BRASIL FHD 1
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10077370
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL FHD*" tvg-logo="" group-title="ESPORTES ESPECIAIS",COPA DO BRASIL FHD*
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10074791
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL HD 1" tvg-logo="" group-title="ESPORTES ESPECIAIS",COPA DO BRASIL HD 1
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10077371
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL HD*" tvg-logo="" group-title="ESPORTES ESPECIAIS",COPA DO BRASIL HD*
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10074790
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 1" tvg-logo="" group-title="ESPORTES ESPECIAIS",COPA DO BRASIL 1
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10074738
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL SD 1" tvg-logo="" group-title="ESPORTES ESPECIAIS",COPA DO BRASIL SD 1
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10077372
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL SD*" tvg-logo="" group-title="ESPORTES ESPECIAIS",COPA DO BRASIL SD*
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10074789
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 2 FHD" tvg-logo="" group-title="ESPORTES ESPECIAIS",COPA DO BRASIL 2 FHD
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10074788
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 2 HD" tvg-logo="" group-title="ESPORTES ESPECIAIS",COPA DO BRASIL 2 HD
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10074787
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 2 SD" tvg-logo="" group-title="ESPORTES ESPECIAIS",COPA DO BRASIL 2 SD
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10074786
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 2" tvg-logo="" group-title="ESPORTES ESPECIAIS",COPA DO BRASIL 2
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10074739
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 3" tvg-logo="" group-title="ESPORTES ESPECIAIS",COPA DO BRASIL 3
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10074740
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 4" tvg-logo="" group-title="ESPORTES ESPECIAIS",COPA DO BRASIL 4
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10074741
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 1
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10068908
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1*" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 1*
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10068955
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 2
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10068956
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 2*
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10069193
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 3
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10068957
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 3*
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10069194
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 4
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10068958
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 4*
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10069195
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 5
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10069196
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 6
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10069197
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 1" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 1
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10068959
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1²" tvg-logo="" group-title="ESPORTES ESPECIAIS",HBO MAX 1²
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10074680
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01 HDh" tvg-logo="" group-title="ESPORTES ESPECIAIS",HBO MAX 01 HDh
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10073392
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 2" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 2
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10068960
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 3" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 3
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10068961
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 4" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 4
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10068962
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 5" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 5
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10068963
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 6" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 6
-http://stbup.com:80/Wendel4022/nM4cL1lsLU/10068964
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHD
 http://stbup.com:80/Wendel4022/nM4cL1lsLU/2752
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHD*
