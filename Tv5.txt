@@ -2801,3 +2801,905 @@ http://stbup.com:80/Wendel4022/nM4cL1lsLU/10040592
 http://stbup.com:80/Wendel4022/nM4cL1lsLU/10040593
 #EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 09" tvg-logo="https://i.imgur.com/jGwdaQw.png" group-title="FILMES E SERIES",CINE SKY 09
 http://stbup.com:80/Wendel4022/nM4cL1lsLU/10040594
+#EXTINF:-1 tvg-id="EliteNaruto.br" tvg-name="24H NARUTO CLASSICO T01" tvg-logo="https://i.imgur.com/GVeTSGz.png" group-title="ANIMES 24 HORAS",24H NARUTO CLASSICO T01
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033981
+#EXTINF:-1 tvg-id="EliteNaruto.br" tvg-name="24H NARUTO CLASSICO T02" tvg-logo="https://i.imgur.com/GVeTSGz.png" group-title="ANIMES 24 HORAS",24H NARUTO CLASSICO T02
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033982
+#EXTINF:-1 tvg-id="EliteNaruto.br" tvg-name="24H NARUTO CLASSICO T03" tvg-logo="https://i.imgur.com/GVeTSGz.png" group-title="ANIMES 24 HORAS",24H NARUTO CLASSICO T03
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033983
+#EXTINF:-1 tvg-id="EliteNaruto.br" tvg-name="24H NARUTO CLASSICO T04" tvg-logo="https://i.imgur.com/GVeTSGz.png" group-title="ANIMES 24 HORAS",24H NARUTO CLASSICO T04
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033984
+#EXTINF:-1 tvg-id="EliteNaruto.br" tvg-name="24H NARUTO CLASSICO T05" tvg-logo="https://i.imgur.com/GVeTSGz.png" group-title="ANIMES 24 HORAS",24H NARUTO CLASSICO T05
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033985
+#EXTINF:-1 tvg-id="EliteNaruto.br" tvg-name="24H NARUTO CLASSICO T06" tvg-logo="https://i.imgur.com/GVeTSGz.png" group-title="ANIMES 24 HORAS",24H NARUTO CLASSICO T06
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033986
+#EXTINF:-1 tvg-id="EliteNaruto.br" tvg-name="24H NARUTO CLASSICO T07" tvg-logo="https://i.imgur.com/GVeTSGz.png" group-title="ANIMES 24 HORAS",24H NARUTO CLASSICO T07
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033987
+#EXTINF:-1 tvg-id="EliteNaruto.br" tvg-name="24H NARUTO CLASSICO T08" tvg-logo="https://i.imgur.com/GVeTSGz.png" group-title="ANIMES 24 HORAS",24H NARUTO CLASSICO T08
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033988
+#EXTINF:-1 tvg-id="EliteNaruto.br" tvg-name="24H NARUTO CLASSICO T09" tvg-logo="https://i.imgur.com/GVeTSGz.png" group-title="ANIMES 24 HORAS",24H NARUTO CLASSICO T09
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033989
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H OS CAVALEIROS DOS ZODIACOS COMPLETO" tvg-logo="https://i.imgur.com/ETFwjpp.png" group-title="ANIMES 24 HORAS",24H OS CAVALEIROS DOS ZODIACOS COMPLETO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033990
+#EXTINF:-1 tvg-id="EliteCDZAsgard.br" tvg-name="24H OS CAVALEIROS DOS ZODIACOS SAGA DE ASGARD" tvg-logo="https://i.imgur.com/ETFwjpp.png" group-title="ANIMES 24 HORAS",24H OS CAVALEIROS DOS ZODIACOS SAGA DE ASGARD
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033991
+#EXTINF:-1 tvg-id="EliteCDZHades.br" tvg-name="24H OS CAVALEIROS DOS ZODIACOS SAGA DE HADES" tvg-logo="https://i.imgur.com/ETFwjpp.png" group-title="ANIMES 24 HORAS",24H OS CAVALEIROS DOS ZODIACOS SAGA DE HADES
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033992
+#EXTINF:-1 tvg-id="EliteCDZPoseidon.br" tvg-name="24H OS CAVALEIROS DOS ZODIACOS SAGA DE POSEIDON" tvg-logo="https://i.imgur.com/ETFwjpp.png" group-title="ANIMES 24 HORAS",24H OS CAVALEIROS DOS ZODIACOS SAGA DE POSEIDON
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033993
+#EXTINF:-1 tvg-id="EliteCDZ12Casas.br" tvg-name="24H OS CAVALEIROS DOS ZODIACOS SAGA DO SANTUARIO" tvg-logo="https://i.imgur.com/ETFwjpp.png" group-title="ANIMES 24 HORAS",24H OS CAVALEIROS DOS ZODIACOS SAGA DO SANTUARIO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033994
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T01" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T01
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033995
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T02" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T02
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033996
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T03" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T03
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033997
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T04" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T04
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033998
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T05" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T05
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033999
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T06" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T06
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034000
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T07" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T07
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034001
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T08" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T08
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034002
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T09" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T09
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034003
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T10" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T10
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034004
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T11" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T11
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034005
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T12" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T12
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034006
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T13" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T13
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034007
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T14" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T14
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034008
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T15" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T15
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034009
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T16" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T16
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034010
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T17" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T17
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034011
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T18" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T18
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034012
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T19" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T19
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034013
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T20" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T20
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034014
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T21" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T21
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034015
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T22" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T22
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034016
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T23" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T23
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034017
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T24" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T24
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034018
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H OS SIMPSONS T25" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T25
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034019
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H OS SIMPSONS T26" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T26
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034020
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H OS SIMPSONS T27" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T27
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034021
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H OS SIMPSONS T28" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="ANIMES 24 HORAS",24H OS SIMPSONS T28
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034022
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T01" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T01
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034023
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T02" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T02
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034024
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T03" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T03
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034025
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T04" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T04
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034026
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T05" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T05
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034027
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T06" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T06
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034028
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T07" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T07
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034029
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T08" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T08
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034030
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T09" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T09
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034031
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T10" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T10
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034032
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T11" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T11
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034033
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T12" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T12
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034034
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T13" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T13
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034035
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T14" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T14
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034036
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T15" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T15
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034037
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T16" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T16
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034038
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T17" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T17
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034039
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T18" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T18
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034040
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T19" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T19
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034041
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T20" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T20
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034042
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H SOUTH PARK T21" tvg-logo="https://i.imgur.com/1aheSz1.png" group-title="ANIMES 24 HORAS",24H SOUTH PARK T21
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034043
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H YU-GI-OH CLASSICO T01" tvg-logo="https://i.imgur.com/6ZJILzK.png" group-title="ANIMES 24 HORAS",24H YU-GI-OH CLASSICO T01
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034044
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H YU-GI-OH CLASSICO T02" tvg-logo="https://i.imgur.com/6ZJILzK.png" group-title="ANIMES 24 HORAS",24H YU-GI-OH CLASSICO T02
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034045
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H YU-GI-OH CLASSICO T03" tvg-logo="https://i.imgur.com/6ZJILzK.png" group-title="ANIMES 24 HORAS",24H YU-GI-OH CLASSICO T03
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034046
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H YU-GI-OH CLASSICO T04" tvg-logo="https://i.imgur.com/6ZJILzK.png" group-title="ANIMES 24 HORAS",24H YU-GI-OH CLASSICO T04
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034047
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H YU-GI-OH CLASSICO T05" tvg-logo="https://i.imgur.com/6ZJILzK.png" group-title="ANIMES 24 HORAS",24H YU-GI-OH CLASSICO T05
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034048
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H YU-GI-OH CLASSICO T06" tvg-logo="https://i.imgur.com/6ZJILzK.png" group-title="ANIMES 24 HORAS",24H YU-GI-OH CLASSICO T06
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034049
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H YU-GI-OH CLASSICO T07" tvg-logo="https://i.imgur.com/6ZJILzK.png" group-title="ANIMES 24 HORAS",24H YU-GI-OH CLASSICO T07
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034050
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ILHA DOS DESAFIOS" tvg-logo="" group-title="DESENHOS 24HORAS",ILHA DOS DESAFIOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054095
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DESENHOS BIBLICOS" tvg-logo="" group-title="DESENHOS 24HORAS",DESENHOS BIBLICOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054094
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="AS AVENTURAS DE PIGGLEY WINKS" tvg-logo="" group-title="DESENHOS 24HORAS",AS AVENTURAS DE PIGGLEY WINKS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054093
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="AS TRAPALHADAS DE FLAPJACK" tvg-logo="" group-title="DESENHOS 24HORAS",AS TRAPALHADAS DE FLAPJACK
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054092
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="CORRIDA ESPACIAL" tvg-logo="" group-title="DESENHOS 24HORAS",CORRIDA ESPACIAL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054091
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="FABULAS DA DISNEY" tvg-logo="" group-title="DESENHOS 24HORAS",FABULAS DA DISNEY
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054090
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="FREAKAZOID" tvg-logo="" group-title="DESENHOS 24HORAS",FREAKAZOID
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054089
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="3 PALAVRINHAS" tvg-logo="https://i.imgur.com/w9lJL5h.png" group-title="DESENHOS 24HORAS",3 PALAVRINHAS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/412
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="A NOSSA TURMA" tvg-logo="https://i.imgur.com/cLk3sLl.png" group-title="DESENHOS 24HORAS",A NOSSA TURMA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/413
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="A PEQUENA SEREIA" tvg-logo="https://i.imgur.com/7e7XHfb.png" group-title="DESENHOS 24HORAS",A PEQUENA SEREIA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/415
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="A TURMA DO PATETA" tvg-logo="https://i.imgur.com/BlXimnW.png" group-title="DESENHOS 24HORAS",A TURMA DO PATETA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/416
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="A VACA E O FRANGO" tvg-logo="https://i.imgur.com/VsfRM6Z.png" group-title="DESENHOS 24HORAS",A VACA E O FRANGO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/417
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ALADDIN" tvg-logo="https://i.imgur.com/8lwfVuJ.png" group-title="DESENHOS 24HORAS",ALADDIN
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/418
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ANDY PANDA" tvg-logo="https://i.imgur.com/kJmVO3p.png" group-title="DESENHOS 24HORAS",ANDY PANDA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/419
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://i.imgur.com/KIn2XTx.png" group-title="DESENHOS 24HORAS",AS AVENTURAS DE JACKIE CHAN
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1155
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="AS AVENTURAS DE TINTIN" tvg-logo="https://i.imgur.com/UERrCD7.png" group-title="DESENHOS 24HORAS",AS AVENTURAS DE TINTIN
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/420
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="AS AVENTURAS DO GATO DE BOTAS" tvg-logo="https://i.imgur.com/PdIGGFC.png" group-title="DESENHOS 24HORAS",AS AVENTURAS DO GATO DE BOTAS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/421
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="AS TARTARUGAS NINJA" tvg-logo="https://i.imgur.com/dGDx8u6.png" group-title="DESENHOS 24HORAS",AS TARTARUGAS NINJA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/422
+#EXTINF:-1 tvg-id="EliteBackyardigans.br" tvg-name="BACKYARDIGANS" tvg-logo="https://2.bp.blogspot.com/-ZQi9kb92gEE/XFyDTbaUopI/AAAAAAAACzo/OG1pB3JGQ7QvRxQZGfCWSBYAstVR0mYEwCLcBGAs/s1600/backyardigans.png" group-title="DESENHOS 24HORAS",BACKYARDIGANS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11188
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BARNEY E SEUS AMIGOS" tvg-logo="https://3.bp.blogspot.com/-X6pfGmcGpr0/XFyDUVMtGNI/AAAAAAAACzs/Qs8EQvGSGRAUv0UTer2x3Q2ESWddiNWHQCLcBGAs/s1600/barney.png" group-title="DESENHOS 24HORAS",BARNEY E SEUS AMIGOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11187
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BEN 10 SUPREMACIA ALIENÍGENA" tvg-logo="https://3.bp.blogspot.com/-eCg-CmiQlvQ/XFyDVSsZr8I/AAAAAAAACzw/y234LRLsj9ojlMADFxPofvZkY0iyvNe6QCLcBGAs/s1600/ben10supremacia.png" group-title="DESENHOS 24HORAS",BEN 10 SUPREMACIA ALIENÍGENA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11186
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BIBO PAI E BOB FILHO" tvg-logo="https://1.bp.blogspot.com/_ucqixhl6NTs/S_8tJH-r1XI/AAAAAAAAAlY/HJ_ercHREIM/s280/bob+pai,+bibo+filho.gif " group-title="DESENHOS 24HORAS",BIBO PAI E BOB FILHO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/423
+#EXTINF:-1 tvg-id="EliteBobEsponja.br" tvg-name="BOB ESPONJA 1" tvg-logo="https://3.bp.blogspot.com/-rcFF13_QXA8/XFyDXH2YfXI/AAAAAAAACz8/bAKr0NFdEaU-ZJkzjlyZQMn88axm7lsWwCLcBGAs/s1600/bobesponja.png  " group-title="DESENHOS 24HORAS",BOB ESPONJA 1
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/424
+#EXTINF:-1 tvg-id="EliteBobEsponja.br" tvg-name="BOB ESPONJA 2" tvg-logo="https://3.bp.blogspot.com/-rcFF13_QXA8/XFyDXH2YfXI/AAAAAAAACz8/bAKr0NFdEaU-ZJkzjlyZQMn88axm7lsWwCLcBGAs/s1600/bobesponja.png " group-title="DESENHOS 24HORAS",BOB ESPONJA 2
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1137
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BOB ZOOM" tvg-logo="https://2.bp.blogspot.com/-kL3ab3o1sYg/XL35xTjWDkI/AAAAAAAAC_o/Aljk0PIndJkzih2zhsGtb30iZb2QooWyACLcBGAs/s1600/bobzoom.png " group-title="DESENHOS 24HORAS",BOB ZOOM
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/425
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="CARMEN SANDIEGO" tvg-logo="https://4.bp.blogspot.com/-4arWEKsFjZs/XL4BkGIN-QI/AAAAAAAAC_0/RIskVFJgBVoR6lhrwHVi6DPxPZoDQYOvwCLcBGAs/s1600/carmensandiego.png " group-title="DESENHOS 24HORAS",CARMEN SANDIEGO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/426
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="CASTELO RA TIM BUM" tvg-logo="https://i.imgur.com/Xn2gHc4.png " group-title="DESENHOS 24HORAS",CASTELO RA TIM BUM
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/429
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="CAVALEIROS DOS ZODIACOS 24H SAGA DOZE CASAS" tvg-logo="https://i.imgur.com/ETFwjpp.png" group-title="DESENHOS 24HORAS",CAVALEIROS DOS ZODIACOS 24H SAGA DOZE CASAS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1138
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="CAVALO DE FOGO" tvg-logo="https://i.imgur.com/auXApRS.jpg" group-title="DESENHOS 24HORAS",CAVALO DE FOGO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/427
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="CAVERNA DO DRAGAO" tvg-logo="https://4.bp.blogspot.com/-VWSr1JXEnk4/VRfy2XXtUeI/AAAAAAAAJrU/2dh9yBHrJ44/w1200-h630-p-k-no-nu/A%2BCaverna%2BDo%2BDragao%2B-%2B01.png " group-title="DESENHOS 24HORAS",CAVERNA DO DRAGAO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/428
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="COELHO RICOCHETE E BLAU BLAU" tvg-logo="https://3.bp.blogspot.com/-lm5qcdkztDg/XFyUhqAgfDI/AAAAAAAAC08/q7MGbAULRcQplehOzkfR0k8JDlSK3EDQACLcBGAs/s1600/coelhoricochete.png " group-title="DESENHOS 24HORAS",COELHO RICOCHETE E BLAU BLAU
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/430
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="CORAGEM O CAO COVARDE" tvg-logo="https://i.imgur.com/gpfhbRW.gif " group-title="DESENHOS 24HORAS",CORAGEM O CAO COVARDE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/431
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="CORAGEM O CAO COVARDE" tvg-logo="https://4.bp.blogspot.com/-2MO4UY1hGoA/XFyUkPA9mmI/AAAAAAAAC1M/f3iY2tTpuQc3ETcrkQTI7jOSs6yp920tQCLcBGAs/s1600/courage.png " group-title="DESENHOS 24HORAS",CORAGEM O CAO COVARDE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1140
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="CORRIDA MALUCA" tvg-logo="https://i.imgur.com/pYs3nYh.png " group-title="DESENHOS 24HORAS",CORRIDA MALUCA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/432
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="CORRIDA MALUCA" tvg-logo="https://4.bp.blogspot.com/-HAsOyA1xuLQ/XFyVlPb9xQI/AAAAAAAAC1o/LcXlu8QcKdEnsvZkfg-PQO3_G8kB286OgCLcBGAs/s1600/corridamaluca.png " group-title="DESENHOS 24HORAS",CORRIDA MALUCA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1156
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DANIEL TIGRE" tvg-logo="https://4.bp.blogspot.com/-IYU5hmDvyxI/XFyasjhPvmI/AAAAAAAAC14/sLdrA7ehz6QBpHRDMtxZJg7ELO0-r4TrgCLcBGAs/s1600/danieltigre.png" group-title="DESENHOS 24HORAS",DANIEL TIGRE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11183
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DE VOLTA PARA O FUTURO" tvg-logo="https://4.bp.blogspot.com/-Qb_4O1l3cZs/XL4C2d8OmGI/AAAAAAAADAQ/J8vATseYDUMj6ukydXfh5_U4epI9ZFCngCLcBGAs/s1600/devoltaparaofuturo.png " group-title="DESENHOS 24HORAS",DE VOLTA PARA O FUTURO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/433
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DENNIS O PIMENTINHA" tvg-logo="https://4.bp.blogspot.com/-qQpc_Pwn3pg/XFyatNjnH7I/AAAAAAAAC2A/OkU9xH66bqwCMQgHUpqpKuu1loihywoJgCLcBGAs/s1600/denisopimentinha.png " group-title="DESENHOS 24HORAS",DENNIS O PIMENTINHA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/434
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DON DRACULA" tvg-logo="https://3.bp.blogspot.com/-k90tqYvVzTU/XL4Fm7a5hjI/AAAAAAAADAc/tGiB5E44B7cfJPALiaz9b_v_iFcWW4DqwCLcBGAs/s1600/dondracula.png " group-title="DESENHOS 24HORAS",DON DRACULA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/435
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DORA A AVENTUREIRA" tvg-logo="https://1.bp.blogspot.com/-C-riXcY10Tw/XFyat2ufe_I/AAAAAAAAC2E/97YtHEQNbJk-uaFQW8aIO5Xku8_gzVTfwCLcBGAs/s1600/doraaventureira.png " group-title="DESENHOS 24HORAS",DORA A AVENTUREIRA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/436
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DRAGON BALL" tvg-logo="https://4.bp.blogspot.com/-J4u0NUAAplY/XKGMb1F_W6I/AAAAAAAAC90/Aw9Tp5JADe8S91OsGNPTUuGvyGBSQ17ZgCLcBGAs/s1600/dragoball.png " group-title="DESENHOS 24HORAS",DRAGON BALL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1142
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DRAGON BALL" tvg-logo="https://4.bp.blogspot.com/-J4u0NUAAplY/XKGMb1F_W6I/AAAAAAAAC90/Aw9Tp5JADe8S91OsGNPTUuGvyGBSQ17ZgCLcBGAs/s1600/dragoball.png " group-title="DESENHOS 24HORAS",DRAGON BALL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/16687
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DRAGON BALL GT" tvg-logo="https://4.bp.blogspot.com/-2QXhJpubbH4/XKGLRbcas6I/AAAAAAAAC9k/36pq-Yu-jMwUOizocjRm6t-eqLqF5jrSgCLcBGAs/s1600/dragoball_gt.png" group-title="DESENHOS 24HORAS",DRAGON BALL GT
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/16681
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DRAGON BALL KAI" tvg-logo="https://3.bp.blogspot.com/-Vtg58rxjTZs/XKGLRePwSHI/AAAAAAAAC9g/kEKZWZBKTNIw34awWW_eKfhrCzrrOmm5wCLcBGAs/s1600/dragoball_kai.png" group-title="DESENHOS 24HORAS",DRAGON BALL KAI
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/16680
+#EXTINF:-1 tvg-id="EliteDBS.br" tvg-name="DRAGON BALL SUPER" tvg-logo="https://1.bp.blogspot.com/-417hVVu-YP8/XFyauP8ETKI/AAAAAAAAC2I/VGeKcCByDlAi1hg1xtsJKu-w8cisZQA5QCLcBGAs/s1600/dragonballs.png" group-title="DESENHOS 24HORAS",DRAGON BALL SUPER
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/5594
+#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGON BALL Z - SAGA DO MAJIN BOO" tvg-logo="https://4.bp.blogspot.com/-Xgv00nWvn4k/XFya9S2mNpI/AAAAAAAAC2U/8wu3_gCPzsMlgCGhcb9TsEun6FmDC4akQCLcBGAs/s1600/dragonballz.png" group-title="DESENHOS 24HORAS",DRAGON BALL Z - SAGA DO MAJIN BOO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/16682
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DUCK TALES" tvg-logo="https://i.pinimg.com/originals/d0/46/de/d046de3ab0ca82bae5ebb60a3edc0791.png " group-title="DESENHOS 24HORAS",DUCK TALES
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/437
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ELITE INFANTIL 1" tvg-logo="https://cinema10.com.br/upload/noticias/2019-2/2192602189.jpg" group-title="DESENHOS 24HORAS",ELITE INFANTIL 1
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034294
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ELITE INFANTIL 2" tvg-logo="https://cinema10.com.br/upload/noticias/2019-2/2192602189.jpg" group-title="DESENHOS 24HORAS",ELITE INFANTIL 2
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034365
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ESQUILO SEM GRILO" tvg-logo="https://4.bp.blogspot.com/-BFVGb44D6U8/XL4v-Qqa8lI/AAAAAAAADA0/PklUPFqsVKs3ZxITlvmjnPFQYhAwU3OywCLcBGAs/s1600/esquilosemgrilo.png " group-title="DESENHOS 24HORAS",ESQUILO SEM GRILO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/438
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="EU SOU O MAXIMO" tvg-logo="https://1.bp.blogspot.com/-0MDALVCFVWM/XL4xCREyrTI/AAAAAAAADBA/d3gGv3aCsm4zx1VDP70UzL_cE0DKVJMMQCLcBGAs/s1600/eusouomaximo.png " group-title="DESENHOS 24HORAS",EU SOU O MAXIMO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/439
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="FAMILIA DA PESADA (FAMILY GUY) 24H" tvg-logo="https://liberdadenews.com.br/images/stories/2013/Setembro/Cidades/Resized/guy.png " group-title="DESENHOS 24HORAS",FAMILIA DA PESADA (FAMILY GUY) 24H
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1143
+#EXTINF:-1 tvg-id="EliteFamiliaDino.br" tvg-name="FAMILIA DINOSSAURO" tvg-logo="https://3.bp.blogspot.com/-USpNtW75snE/XL41UNxy1eI/AAAAAAAADBY/kgA6XpzOrCw_X-sBUY3thE66fPU7rxY5QCLcBGAs/s1600/familiadinossauros.png" group-title="DESENHOS 24HORAS",FAMILIA DINOSSAURO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11178
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="FORMIGA ATOMICA" tvg-logo="https://i.pinimg.com/originals/50/2b/5f/502b5f78a8fc9084c6bfde4005629982.png  " group-title="DESENHOS 24HORAS",FORMIGA ATOMICA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1144
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="FRANKENSTEIN JUNIOR" tvg-logo="https://3.bp.blogspot.com/-y5VRN_6DtaU/XL5Ax4c3G8I/AAAAAAAADBw/DidkDjofspY-p-Vlh9OEKGf5NkRg9RXTQCLcBGAs/s1600/frankensteinjr.png  " group-title="DESENHOS 24HORAS",FRANKENSTEIN JUNIOR
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/440
+#EXTINF:-1 tvg-id="EliteGalinhaPintadinha.br" tvg-name="GALINHA PINTADINHA" tvg-logo="https://3.bp.blogspot.com/-Y8eO6SdFh1c/XL5ENpUZEdI/AAAAAAAADCE/b-xDwaXpg-wlRpSTcYgP8lzbjmGYH0w-gCLcBGAs/s1600/Galinhapintadinha.png" group-title="DESENHOS 24HORAS",GALINHA PINTADINHA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/6307
+#EXTINF:-1 tvg-id="EliteGalinhaPintadinha.br" tvg-name="GALINHA PINTADINHA 24H" tvg-logo="http://s.glbimg.com/po/tt/f/original/2012/07/30/button_turma.jpg " group-title="DESENHOS 24HORAS",GALINHA PINTADINHA 24H
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1146
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GARFIELD E SEUS AMIGOS" tvg-logo="https://4.bp.blogspot.com/-d6scGsx8_-Q/XL5GgeWyouI/AAAAAAAADCQ/3ndBQu5DJqI9_4L9lNGXcD7Kmea_SlSSACLcBGAs/s1600/garfieldeseusamigos.png  " group-title="DESENHOS 24HORAS",GARFIELD E SEUS AMIGOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/441
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GASPARZINHO O FANTASMA ESPACIAL" tvg-logo="https://4.bp.blogspot.com/-03gowj5aMD8/XL5KM_y1RmI/AAAAAAAADCc/AoIeGmd9i_4nkRwO2Fz8NrCJfInYdWfZgCLcBGAs/s1600/gasparzinhoespacial.png " group-title="DESENHOS 24HORAS",GASPARZINHO O FANTASMA ESPACIAL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/442
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GATO FELIX" tvg-logo="https://2.bp.blogspot.com/-Akk9bD8KRuo/XL5PfjZil1I/AAAAAAAADCo/xCPgNi7-xDs0GAiRhHraUQCBYLPNAvFhQCLcBGAs/s1600/gatofelix.png " group-title="DESENHOS 24HORAS",GATO FELIX
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/443
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="HAMTARO" tvg-logo="https://3.bp.blogspot.com/-UNzNnMmbT3M/XL5QKblaokI/AAAAAAAADCw/CGf3KeW7Ht8TH8jKNJFlxOEMVd_ZP7LSQCLcBGAs/s1600/hamtaro.png   " group-title="DESENHOS 24HORAS",HAMTARO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/444
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="HE-MAN" tvg-logo="https://1.bp.blogspot.com/-qoC9bfig5EE/XL5QjO5Wx6I/AAAAAAAADC4/xVXed8BvtSEC2jycTa0gxOLJddlBgCpuQCLcBGAs/s1600/he-man.png    " group-title="DESENHOS 24HORAS",HE-MAN
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/445
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="HELLO KITTY" tvg-logo="https://1.bp.blogspot.com/-d6UzdJGpJLw/XL5RrQLJOwI/AAAAAAAADDE/qDtwXzwA4msJAQiT-eRGBXZ7joei2t2pgCLcBGAs/s1600/hellokitty.png " group-title="DESENHOS 24HORAS",HELLO KITTY
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/446
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="HOMEM PÁSSARO" tvg-logo="https://4.bp.blogspot.com/-OAA3B0EcIF4/XL5TLl1W-rI/AAAAAAAADDQ/AoPwyMWBEUIAuUDYsUgIeoel9x7QJ-FsACLcBGAs/s1600/homempassaro.png" group-title="DESENHOS 24HORAS",HOMEM PÁSSARO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/16771
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="JAMBO E RUIVAO" tvg-logo="https://4.bp.blogspot.com/-PjhNd-vlC8M/XL-x-UaDcEI/AAAAAAAADEI/ccUqWS09aAU_YaXOzz0s6OPO9JAlzB5SACLcBGAs/s1600/jamboeruivao.png " group-title="DESENHOS 24HORAS",JAMBO E RUIVAO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/447
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="JONNY QUEST" tvg-logo="https://3.bp.blogspot.com/-7NQR6E9LnZY/XL-yyz1NqvI/AAAAAAAADEQ/Ai-u17JwPbAoAA3JyNZF4JYr17_btL6HACLcBGAs/s1600/jonnyquest.png " group-title="DESENHOS 24HORAS",JONNY QUEST
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/448
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="KENAN E KEL" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/b/b9/Kenan_and_kel_logo.png/revision/latest?cb=20170918224804  " group-title="DESENHOS 24HORAS",KENAN E KEL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1157
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="KICK BUTTOWSKI" tvg-logo="https://1.bp.blogspot.com/-9cv_393RRgg/XOfXq2VNGaI/AAAAAAAADIU/wtXIRNZYSecwz0a4Cw0vX0CTGICVF8IswCLcBGAs/s1600/Kickbuttowski.png " group-title="DESENHOS 24HORAS",KICK BUTTOWSKI
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/449
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="KND A TURMA DO BAIRRO" tvg-logo="https://i.pinimg.com/originals/c2/ca/ab/c2caab28add9aa488ce6d57a27a41b1c.jpg " group-title="DESENHOS 24HORAS",KND A TURMA DO BAIRRO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/450
+#EXTINF:-1 tvg-id="EliteLarva.br" tvg-name="LARVAS" tvg-logo="http://tubaani.com/wp-content/uploads/2016/10/03-parallax-front.png " group-title="DESENHOS 24HORAS",LARVAS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/451
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="LIGEIRINHO" tvg-logo="https://1.bp.blogspot.com/-PnSI4N1n95Q/XOfh1iFhE2I/AAAAAAAADI4/M_WeHezgE6U4C_LYK5Osrnd_zatlBzRKQCLcBGAs/s1600/ligeirinho.png " group-title="DESENHOS 24HORAS",LIGEIRINHO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/452
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="LULA LELE" tvg-logo="https://1.bp.blogspot.com/-ueF9ctLLjR8/XOfjgnrXoyI/AAAAAAAADJI/PphA1ieb0vItmpOrowO8dHlQFvwnq6bSgCLcBGAs/s1600/lulalele.png " group-title="DESENHOS 24HORAS",LULA LELE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/453
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="LULUZINHA" tvg-logo="https://1.bp.blogspot.com/-sKpLZF4s6Pc/XOfjhrjRKfI/AAAAAAAADJM/XOGviFxmKhM3xFrvZuv7zjgKk_QX9A48gCLcBGAs/s1600/luluzinha.png " group-title="DESENHOS 24HORAS",LULUZINHA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/454
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="LULUZINHA" tvg-logo="https://1.bp.blogspot.com/-sKpLZF4s6Pc/XOfjhrjRKfI/AAAAAAAADJM/XOGviFxmKhM3xFrvZuv7zjgKk_QX9A48gCLcBGAs/s1600/luluzinha.png " group-title="DESENHOS 24HORAS",LULUZINHA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1147
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MAGUILA O GORILA" tvg-logo="https://1.bp.blogspot.com/-I9vx6YUldG0/XOgtcLUDoPI/AAAAAAAADJY/ywEbOJ7l1lIjzmyooqfn6EtuO_Qw5M2xACLcBGAs/s1600/magillagorilla.png " group-title="DESENHOS 24HORAS",MAGUILA O GORILA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/455
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MANDA CHUVA" tvg-logo="https://1.bp.blogspot.com/-144SDxGtIoc/XOgtcKfreDI/AAAAAAAADJc/-4BYB5T7xt0ZGc6fzhTp0W1MEwsqnsSvACLcBGAs/s1600/mandachuva.png " group-title="DESENHOS 24HORAS",MANDA CHUVA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/456
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MANUAL DO NED" tvg-logo="https://vignette.wikia.nocookie.net/poptropica/images/b/b0/Ned_Noodlehead.png/revision/latest/top-crop/width/360/height/450?cb=20150702065716 " group-title="DESENHOS 24HORAS",MANUAL DO NED
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/457
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MARTIN MYSTERY" tvg-logo="https://1.bp.blogspot.com/-qZI5wOBpZfk/XOgtc1HJRhI/AAAAAAAADJk/QbAkf1LmN4wpftij9jUOP_NbQgLr1_1FwCLcBGAs/s1600/martinmystery.png " group-title="DESENHOS 24HORAS",MARTIN MYSTERY
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/458
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MASHA E O URSO" tvg-logo="https://1.bp.blogspot.com/-7nq6Pdld9u8/XOgtdGOO-nI/AAAAAAAADJo/NENjkcVxR-AF1_ZuUKW9ufXBLUp5wejwQCLcBGAs/s1600/mashaeourso.png " group-title="DESENHOS 24HORAS",MASHA E O URSO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/459
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MEDABOTS" tvg-logo="https://1.bp.blogspot.com/-Qgep3iECdKA/XOgtdszJcxI/AAAAAAAADJs/PGsGxDCqO2s8rAG5xsCpgx-MyRVcIqGFACLcBGAs/s1600/medabots.png " group-title="DESENHOS 24HORAS",MEDABOTS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/460
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MEGAMAN (INGLES)" tvg-logo="https://1.bp.blogspot.com/-58FXeZ9rSaI/XOgteOvThLI/AAAAAAAADJw/_mUJH3R_5CkZOYjeGEb11ZNU2g2CVb-IgCLcBGAs/s1600/megaman.png " group-title="DESENHOS 24HORAS",MEGAMAN (INGLES)
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/461
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MEGAS XRL" tvg-logo="https://1.bp.blogspot.com/-XMKKRWiMImI/XOgteaMBFuI/AAAAAAAADJ0/noJ7AQmj964f-J_viNP-EJmwGHPV8YD2gCLcBGAs/s1600/megasxlr.png " group-title="DESENHOS 24HORAS",MEGAS XRL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/462
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MEU AMIGO DA ESCOLA É UM MACACO" tvg-logo="https://1.bp.blogspot.com/-fnZ4vFQj7bg/XOgtfLrV_2I/AAAAAAAADJ8/Te3WCAWJbds2MF2u2Ts8_yKsOL4p3YmzQCLcBGAs/s1600/meuamigodaescola.png " group-title="DESENHOS 24HORAS",MEU AMIGO DA ESCOLA É UM MACACO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/463
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MIB HOMENS DE PRETO" tvg-logo="https://1.bp.blogspot.com/-TB8vELQmi5g/XOgtfbIkDUI/AAAAAAAADKA/PDmJgNt1YZMAw26tNNxAY8sIzMv1h8hoQCLcBGAs/s1600/mib.png " group-title="DESENHOS 24HORAS",MIB HOMENS DE PRETO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/464
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MICKEY E DONALD" tvg-logo="https://1.bp.blogspot.com/-E7dRFRQRV6E/XOgtfldsDxI/AAAAAAAADKE/qcZYvQWUo8wfJW7Rz0FakF2A51MDVQd_ACLcBGAs/s1600/mickeyeseusamigos.png" group-title="DESENHOS 24HORAS",MICKEY E DONALD
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1148
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MICKEY MOUSE E SEUS AMIGOS" tvg-logo="https://1.bp.blogspot.com/-E7dRFRQRV6E/XOgtfldsDxI/AAAAAAAADKE/qcZYvQWUo8wfJW7Rz0FakF2A51MDVQd_ACLcBGAs/s1600/mickeyeseusamigos.png" group-title="DESENHOS 24HORAS",MICKEY MOUSE E SEUS AMIGOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11140
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MISSION HILL" tvg-logo="https://1.bp.blogspot.com/-rJ_g4vrDa8A/XOgtfwXscEI/AAAAAAAADKI/xLnmr3OHqPYWi9A93omwjgoIgzhb_FwdQCLcBGAs/s1600/missionhill.png " group-title="DESENHOS 24HORAS",MISSION HILL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/465
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MORANGUINHO" tvg-logo="https://1.bp.blogspot.com/-x6O2VBHpyD0/XOgtgL7IzpI/AAAAAAAADKM/u_8hXxA-KVk8JtaifeEC2WByg9ZUUyhNQCLcBGAs/s1600/moranguinho.png " group-title="DESENHOS 24HORAS",MORANGUINHO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/466
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MORTAL KOMBAT" tvg-logo="https://1.bp.blogspot.com/-Kvq0z7czyNM/XOgtgvHTgKI/AAAAAAAADKU/BGSvasoLCQ4vNSF8s0uQ1FqpMQqclLV7ACLcBGAs/s1600/mortalkombat.png " group-title="DESENHOS 24HORAS",MORTAL KOMBAT
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/467
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MOSQUITO MOSQUETE E MOSCARDO" tvg-logo="https://1.bp.blogspot.com/-3h3BNnUfnTc/XOgtg4G_SoI/AAAAAAAADKY/1lw76ACF9A8GWxxM_U4Xckw3C6CTbbEQQCLcBGAs/s1600/mosquitomosqueteemoscardo.png " group-title="DESENHOS 24HORAS",MOSQUITO MOSQUETE E MOSCARDO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/468
+#EXTINF:-1 tvg-id="EliteMrBean.br" tvg-name="MR BEAN 2" tvg-logo="https://2.bp.blogspot.com/-e9obsFLqK9U/XFsX1QcR79I/AAAAAAAACwE/viM2tztVqsYh7exrwOZ_LJhy09dgYedWwCLcBGAs/s1600/mrbean.png " group-title="DESENHOS 24HORAS",MR BEAN 2
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/469
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MUCHA LUCHA" tvg-logo="https://1.bp.blogspot.com/-UkZOrhvIvrg/XOhP_ktTlTI/AAAAAAAADLc/qbU1MrJuhiUWYWgat7qPICLlKyvLC63jQCLcBGAs/s1600/muchalucha.png " group-title="DESENHOS 24HORAS",MUCHA LUCHA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/470
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MUNDO BITA" tvg-logo="https://i.pinimg.com/originals/12/17/a8/1217a816e32d2826f27e6e8dd1e47c9d.png " group-title="DESENHOS 24HORAS",MUNDO BITA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/471
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MUTANTE REX" tvg-logo="https://1.bp.blogspot.com/-17riUJ5jCNI/XOhSEM-S30I/AAAAAAAADLw/_owfJy1CSb81ME_UrzvabDEYnWSxn0s6wCLcBGAs/s1600/oacampamentodelazlo.png  " group-title="DESENHOS 24HORAS",MUTANTE REX
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/473
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MÚSCULO TOTAL" tvg-logo="https://1.bp.blogspot.com/-1g9cwQX_0Nc/XOhQEITyvkI/AAAAAAAADLk/99b1hZQ61ycXvAm_4nkqE_1uFxQQZ5fRwCLcBGAs/s1600/musculototal.png " group-title="DESENHOS 24HORAS",MÚSCULO TOTAL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/472
+#EXTINF:-1 tvg-id="EliteNaruto.br" tvg-name="NARUTO" tvg-logo="https://i.imgur.com/GVeTSGz.png" group-title="DESENHOS 24HORAS",NARUTO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/474
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="O ACAMPAMENTO DE LAZLO" tvg-logo="https://1.bp.blogspot.com/-17riUJ5jCNI/XOhSEM-S30I/AAAAAAAADLw/_owfJy1CSb81ME_UrzvabDEYnWSxn0s6wCLcBGAs/s1600/oacampamentodelazlo.png " group-title="DESENHOS 24HORAS",O ACAMPAMENTO DE LAZLO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/475
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="O INSPETOR" tvg-logo="https://1.bp.blogspot.com/-85jL7VkhKwM/XOhlbc3X2HI/AAAAAAAADMQ/wslJM6ZudGAuwk5dB7qBV12iuwXZ3xYkQCLcBGAs/s1600/oinspetor.png " group-title="DESENHOS 24HORAS",O INSPETOR
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/476
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="O MASCARA 1" tvg-logo="https://1.bp.blogspot.com/-FtEA0sywMoM/XOh6s6q6H5I/AAAAAAAADNE/fp0bhQVKZ-AOAwnb5BoQy1l8eZl_bn41QCLcBGAs/s1600/omaskara.png " group-title="DESENHOS 24HORAS",O MASCARA 1
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1158
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="O MASKARA 2" tvg-logo="https://1.bp.blogspot.com/-FtEA0sywMoM/XOh6s6q6H5I/AAAAAAAADNE/fp0bhQVKZ-AOAwnb5BoQy1l8eZl_bn41QCLcBGAs/s1600/omaskara.png " group-title="DESENHOS 24HORAS",O MASKARA 2
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/477
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="O PEQUENO SCOOBY DOO" tvg-logo="https://1.bp.blogspot.com/-rBwd-3AbwGg/XOh6Jv1hDhI/AAAAAAAADMk/8JeDi_iHx_UNxxCCINcLkTaXDQ27ajaQQCLcBGAs/s1600/opequenoscoobydoo.png " group-title="DESENHOS 24HORAS",O PEQUENO SCOOBY DOO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/478
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="O PEQUENO URSO" tvg-logo="https://1.bp.blogspot.com/-HRrTgaizVoY/XOh6JqzsutI/AAAAAAAADMg/vUbYhz89oUcRJIyQHBQ4VER7md1bOfowACLcBGAs/s1600/opequenourso.png " group-title="DESENHOS 24HORAS",O PEQUENO URSO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/479
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="O PRINCIPE DRAGAO" tvg-logo="https://vignette.wikia.nocookie.net/o-principe-dragao/images/4/4e/Callum_Official.png/revision/latest/top-crop/width/360/height/450?cb=20191117020009&amp;path-prefix=pt-br " group-title="DESENHOS 24HORAS",O PRINCIPE DRAGAO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/480
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="O QUE HA DE NOVO SCOOBY DOO" tvg-logo="https://1.bp.blogspot.com/-Y-Y_gwHIN_U/V6o5WDrSuvI/AAAAAAAAAEE/vW491rZ3iEQLJ5zdhreEyw_n-3798LaTACPcB/w1200-h630-p-k-no-nu/scooby_and_gang_by_captainjackharkness-d5i1lo0.png " group-title="DESENHOS 24HORAS",O QUE HA DE NOVO SCOOBY DOO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/481
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="O SHOW DO ZÏ¿½ COLMEIA" tvg-logo="https://1.bp.blogspot.com/-GV07AH7k9iw/XPGSV4UyVzI/AAAAAAAADPM/Bw_79X0BnaEcvKBA2WRs-c_kC1tDZkttwCLcBGAs/s1600/oshowdozecolmeia.png " group-title="DESENHOS 24HORAS",O SHOW DO ZÏ¿½ COLMEIA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/482
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="O XODÓ DA VOVÓ" tvg-logo="https://1.bp.blogspot.com/-3lTRUsJHW2s/XPGSZZZ00rI/AAAAAAAADP8/m8t7UcV50iQgd4l1rsJ6ctVl5nmMVe1GgCLcBGAs/s1600/oxododavovo.png " group-title="DESENHOS 24HORAS",O XODÓ DA VOVÓ
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/483
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ONIBUS MAGICO" tvg-logo="https://1.bp.blogspot.com/-yw2BnpgPmUQ/XPGSU7QUhJI/AAAAAAAADPA/zjQorRa7wjIX5mjQElQpqY1ZJUnjoOdKwCLcBGAs/s1600/oonibusmagico.png " group-title="DESENHOS 24HORAS",ONIBUS MAGICO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/484
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS ANIMAIS DO BOSQUE DOS VINTENS" tvg-logo="https://1.bp.blogspot.com/-QpN1huYY8eI/XPGSU_1edBI/AAAAAAAADPE/dmArskMh0zIXwuG-vQx1tHqiaLi7wSWZgCLcBGAs/s1600/osanimaisdobosquedosvintens.png " group-title="DESENHOS 24HORAS",OS ANIMAIS DO BOSQUE DOS VINTENS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/485
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS CASTORES PIRADOS" tvg-logo="https://1.bp.blogspot.com/-OXHIM_eM93g/XPGSU2weWGI/AAAAAAAADO8/kL-kqYMTx28w0YSHpbidQF4U7yNvIRenACLcBGAs/s1600/oscastorespirados.png " group-title="DESENHOS 24HORAS",OS CASTORES PIRADOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/486
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS FLINTSTONES" tvg-logo="https://1.bp.blogspot.com/-F_taNnz2x9o/XPGSVja5eOI/AAAAAAAADPI/vI6D0Nvg5FcAosIW96CY-ML4m_iBwspWwCLcBGAs/s1600/osflintstones.png " group-title="DESENHOS 24HORAS",OS FLINTSTONES
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/487
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS JETSONS" tvg-logo="https://1.bp.blogspot.com/-6S5WsssDhD0/XPGSWYmK5jI/AAAAAAAADPU/ocO2VDCrDN4tWtdhgf0K-vGnIJ2FvL72wCLcBGAs/s1600/osjetsons.png " group-title="DESENHOS 24HORAS",OS JETSONS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/488
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS JOVENS TITANS" tvg-logo="https://1.bp.blogspot.com/-XQMiS1d2hPw/XPGSWtYvkoI/AAAAAAAADPY/48P2mH_gOIUoxbz9e-VuwV4fOfkT6zeMACLcBGAs/s1600/osjovenstitas.png " group-title="DESENHOS 24HORAS",OS JOVENS TITANS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/489
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS MELHORES DA HANNA-BARBERA" tvg-logo="https://1.bp.blogspot.com/-F2YCO-x7RV0/XPGSWywX3kI/AAAAAAAADPc/CCr4pyhE1wgK99zB503taQ-Xtx74SXEswCLcBGAs/s1600/osmelhoresdahannabarbera.png " group-title="DESENHOS 24HORAS",OS MELHORES DA HANNA-BARBERA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/490
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS PADRINHOS MAGICOS" tvg-logo="https://1.bp.blogspot.com/-X8SLx3dqfFA/XPGSXMzadGI/AAAAAAAADPg/NZ0gdygTSqQRQujQNca2d1JNp1fwJ0AHQCLcBGAs/s1600/ospadrinhosmagicos.png " group-title="DESENHOS 24HORAS",OS PADRINHOS MAGICOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/491
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS PINGUINS DE MADAGASCAR" tvg-logo="https://1.bp.blogspot.com/-e0JNU2S5Ems/XPGSXbKP45I/AAAAAAAADPk/oOu0t0myUbEIO9487YzYidK-Wvk3zh5AACLcBGAs/s1600/ospinguinsdemadagascar.png " group-title="DESENHOS 24HORAS",OS PINGUINS DE MADAGASCAR
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/492
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS PINGUINS DE MADAGASCAR" tvg-logo="https://1.bp.blogspot.com/-e0JNU2S5Ems/XPGSXbKP45I/AAAAAAAADPk/oOu0t0myUbEIO9487YzYidK-Wvk3zh5AACLcBGAs/s1600/ospinguinsdemadagascar.png" group-title="DESENHOS 24HORAS",OS PINGUINS DE MADAGASCAR
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11154
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS SETE MOSTRINHOS" tvg-logo="https://1.bp.blogspot.com/-HOqvnKv4deY/XPGSXxcNW1I/AAAAAAAADPs/Elz9r_-aohwwhM8twsPT8iiUnP40RE6XwCLcBGAs/s1600/ossetemonstrinhos2.png " group-title="DESENHOS 24HORAS",OS SETE MOSTRINHOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/493
+#EXTINF:-1 tvg-id="EliteSimpsons.br " tvg-name="OS SIMPSONS" tvg-logo="https://i.imgur.com/41RDHJO.png" group-title="DESENHOS 24HORAS",OS SIMPSONS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/494
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS SUPER PATOS" tvg-logo="https://1.bp.blogspot.com/-Hhe1lC4h4FA/XPGSYLBXjcI/AAAAAAAADPw/3UMipeJ0ZVEB5e3Fe6j5g8VP5pVcsFyxACLcBGAs/s1600/osuperpatos.png " group-title="DESENHOS 24HORAS",OS SUPER PATOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/495
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS URSINHOS GUMMI" tvg-logo="https://1.bp.blogspot.com/-J9MMfyixoJA/XPGSYkMPJPI/AAAAAAAADP0/qptAFIFz0eUJLJM25mdZRhrWIKVYlQgSACLcBGAs/s1600/osursinhosgummi.png " group-title="DESENHOS 24HORAS",OS URSINHOS GUMMI
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/496
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS VALENTES COWBOYS DE MOO MESA" tvg-logo="https://1.bp.blogspot.com/-Uqq2e1ge70k/XPGSZJaZVEI/AAAAAAAADP4/Ba2Vsi-bJ14lexQWj6U-xMHjw_y5s9-KwCLcBGAs/s1600/osvalentescowboysdemoomesa.png " group-title="DESENHOS 24HORAS",OS VALENTES COWBOYS DE MOO MESA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/497
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PAPA-LÉGUAS E O COIOTE" tvg-logo="https://1.bp.blogspot.com/-W55DJy-0_l8/XPGXGNW0-EI/AAAAAAAADQg/NpwKJIu-KFUiPkeUU6QtuosfWFjN8746wCLcBGAs/s1600/papaleguas.png " group-title="DESENHOS 24HORAS",PAPA-LÉGUAS E O COIOTE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/498
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PATATI PATATA" tvg-logo="https://1.bp.blogspot.com/-UYWmf02HN8Q/XPGXHcscFAI/AAAAAAAADQw/_gKFtbFUMzo9nde2hbZRNBMh0ytbO6kVwCLcBGAs/s320/patatipatataprograma.png " group-title="DESENHOS 24HORAS",PATATI PATATA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/499
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PATRULHA CANINA" tvg-logo="https://1.bp.blogspot.com/-bW_8i5tkN3A/XPGXGYmil-I/AAAAAAAADQk/M9dDRoPF9BonWCYxdLh6noUI-JClw8NUACLcBGAs/s1600/patrulhacanina.png " group-title="DESENHOS 24HORAS",PATRULHA CANINA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/500
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PATRULHA ESTELAR" tvg-logo="https://1.bp.blogspot.com/-6PwI2GN7Beo/XPGXHPdhGcI/AAAAAAAADQo/Crrbg4ePWkY7FvHqX7R54zBBtsUUJV5yACLcBGAs/s1600/patrulhaestelar.png " group-title="DESENHOS 24HORAS",PATRULHA ESTELAR
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/501
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PEPE LEGAL" tvg-logo="https://1.bp.blogspot.com/-JAiCOCxY9_g/XPGXHiBiN2I/AAAAAAAADQ0/9zI8gbzoQssi8NuqDHEm97JdV9dbvhhFwCLcBGAs/s1600/peppapig.png " group-title="DESENHOS 24HORAS",PEPE LEGAL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/502
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PEPPA PIG 1" tvg-logo="https://1.bp.blogspot.com/-JAiCOCxY9_g/XPGXHiBiN2I/AAAAAAAADQ0/9zI8gbzoQssi8NuqDHEm97JdV9dbvhhFwCLcBGAs/s1600/peppapig.png " group-title="DESENHOS 24HORAS",PEPPA PIG 1
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/503
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PEPPA PIG 2" tvg-logo="https://1.bp.blogspot.com/-JAiCOCxY9_g/XPGXHiBiN2I/AAAAAAAADQ0/9zI8gbzoQssi8NuqDHEm97JdV9dbvhhFwCLcBGAs/s1600/peppapig.png " group-title="DESENHOS 24HORAS",PEPPA PIG 2
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1150
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PERNALONGA E SUA TURMA" tvg-logo="https://i.pinimg.com/originals/f4/9e/6b/f49e6bd0e43d754cd50fb131576c9718.png  " group-title="DESENHOS 24HORAS",PERNALONGA E SUA TURMA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/504
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PHINEAS E FERB" tvg-logo="https://1.bp.blogspot.com/-vg00Tvaqjdo/XPGXJOD3E5I/AAAAAAAADRA/EwGzTXk18-8yGSuyLA7u1cYwHBPcoswRwCLcBGAs/s1600/phineaseferb.png " group-title="DESENHOS 24HORAS",PHINEAS E FERB
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/505
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PICA PAU" tvg-logo="https://1.bp.blogspot.com/-xk1DCoakwGI/XOh6Kp6axfI/AAAAAAAADMw/Vr4CUN3t9YcZxlHf60PrefmHAQ7kaY3HwCLcBGAs/s1600/pica-pau.png " group-title="DESENHOS 24HORAS",PICA PAU
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/506
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PICA PAU O NOVO SHOW" tvg-logo="https://1.bp.blogspot.com/-xk1DCoakwGI/XOh6Kp6axfI/AAAAAAAADMw/Vr4CUN3t9YcZxlHf60PrefmHAQ7kaY3HwCLcBGAs/s1600/pica-pau.png " group-title="DESENHOS 24HORAS",PICA PAU O NOVO SHOW
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/507
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PINKY E CÉREBRO" tvg-logo="https://1.bp.blogspot.com/-6BqofqR7uzk/XPGXJrMGViI/AAAAAAAADRE/Gu_YlDdQ6cUD5xO3nbTkZHh-9pQZQXimACLcBGAs/s1600/pinkyecerebro.png " group-title="DESENHOS 24HORAS",PINKY E CÉREBRO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/508
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PJ MASKS" tvg-logo="http://pjmasks.com/files/large/959f82117e512fab2ce53f34e74b5742.png " group-title="DESENHOS 24HORAS",PJ MASKS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/509
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PLANET SURVIVAL" tvg-logo="https://1.bp.blogspot.com/-FZtmxt_GXAc/XPHeyiK8fOI/AAAAAAAADRg/vNi-5Ya_JPIYW2cRB_N0X16Z16c2HzTegCLcBGAs/s1600/planetsurvival.png " group-title="DESENHOS 24HORAS",PLANET SURVIVAL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/510
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POCOYO" tvg-logo="https://i.imgur.com/O6mRiNH.png " group-title="DESENHOS 24HORAS",POCOYO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/511
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POKEMON T01 - LIGA INDIGO" tvg-logo="https://1.bp.blogspot.com/-LwzmXfT3Nsc/XPHi8_GdKxI/AAAAAAAADTA/zbupIJLW3_kbpZ9sLPDVEO-It8XA8sMXwCLcBGAs/s1600/pokemonT01LigaIndigo.png " group-title="DESENHOS 24HORAS",POKEMON T01 - LIGA INDIGO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/512
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POKEMON T02 - AVENTURAS NA ILHA LARANJA" tvg-logo="https://1.bp.blogspot.com/-uiUK2Tg8F74/XPHe0fp2U-I/AAAAAAAADR0/shY7wEwVRFUEtwmZvqoBr77pDD6VKtZOQCLcBGAs/s1600/pokemonT03.png " group-title="DESENHOS 24HORAS",POKEMON T02 - AVENTURAS NA ILHA LARANJA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/513
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POKEMON T03 - A JORNADA JOHTO" tvg-logo="https://1.bp.blogspot.com/-uiUK2Tg8F74/XPHe0fp2U-I/AAAAAAAADR0/shY7wEwVRFUEtwmZvqoBr77pDD6VKtZOQCLcBGAs/s1600/pokemonT03.png " group-title="DESENHOS 24HORAS",POKEMON T03 - A JORNADA JOHTO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/514
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POKEMON T04 - CAMPEÏ¿½ES DA LIGA JOHTO" tvg-logo="https://1.bp.blogspot.com/-3ffw6GCyLbQ/XPHe079PRZI/AAAAAAAADR4/uLfiweIJ_Qw8-DYiugtoN8OUdHVwEZC8wCLcBGAs/s1600/pokemonT04.png " group-title="DESENHOS 24HORAS",POKEMON T04 - CAMPEÏ¿½ES DA LIGA JOHTO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/515
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POKEMON T05 - MASTER QUEST" tvg-logo="https://1.bp.blogspot.com/-ffbs4b0jTTA/XPHe1Y-qDwI/AAAAAAAADR8/9SfiG45DiBYo7-ev_S2kVXVdaDQKGCKjACLcBGAs/s1600/pokemonT05.png " group-title="DESENHOS 24HORAS",POKEMON T05 - MASTER QUEST
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/516
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POKEMON T06 - AVANÇADO" tvg-logo="https://1.bp.blogspot.com/-X_ytV9Un-3w/XPHe2Mcxs5I/AAAAAAAADSA/9owbv-KYqigbr7IZ7kc0a4as4MBg2vETQCLcBGAs/s1600/pokemonT06.png " group-title="DESENHOS 24HORAS",POKEMON T06 - AVANÇADO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/517
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POKEMON T07 - DESAFIO AVANÇADO" tvg-logo="https://1.bp.blogspot.com/-6-4haaz1eNE/XPHe2cNcD8I/AAAAAAAADSE/kRDfHyjMmgg-aI1iUslTbqF9tT-BGChywCLcBGAs/s1600/pokemonT07.png " group-title="DESENHOS 24HORAS",POKEMON T07 - DESAFIO AVANÇADO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/518
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POKEMON T08 - BATALHA AVANÇADA" tvg-logo="https://1.bp.blogspot.com/-SHoC12M_cDE/XPHe2yFDTMI/AAAAAAAADSI/QOQvMKN671cXwE3_oGEHc4IL5ZZMBLcTgCLcBGAs/s1600/pokemonT08.png " group-title="DESENHOS 24HORAS",POKEMON T08 - BATALHA AVANÇADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/519
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POKEMON T09 - BATALHA DA FRONTEIRA" tvg-logo="https://1.bp.blogspot.com/-xB_LQvK_MzU/XPHe3ZnZtQI/AAAAAAAADSM/nRhqoTKSveYIJIIqZ3ZvG033zIDXGNevgCLcBGAs/s1600/pokemonT09.png " group-title="DESENHOS 24HORAS",POKEMON T09 - BATALHA DA FRONTEIRA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/520
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POKEMON T10 - DIAMANTE E PEROLA" tvg-logo="https://1.bp.blogspot.com/-hRXtNjuJuzk/XPHe3znp9yI/AAAAAAAADSQ/AfjQZcRjotc4DFJ47Pusl8ZhTQEEyfeYgCLcBGAs/s1600/pokemonT10.png " group-title="DESENHOS 24HORAS",POKEMON T10 - DIAMANTE E PEROLA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/521
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POKEMON T11 - BATALHA DIMENSIONAL" tvg-logo="https://1.bp.blogspot.com/-oe4EMwkS5Z8/XPHe4e6i6XI/AAAAAAAADSU/dl7F2oDNbR4pOZmdpkN7dms3KS60KLHnQCLcBGAs/s1600/pokemonT11.png " group-title="DESENHOS 24HORAS",POKEMON T11 - BATALHA DIMENSIONAL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/522
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POKEMON T12 - BATALHAS GALATICAS" tvg-logo="https://1.bp.blogspot.com/-jmG2jB8P690/XPHe4vQdSoI/AAAAAAAADSY/9TnlIP45VDYM1rNojFGdL2kz2mTdcLlQACLcBGAs/s1600/pokemonT12.png " group-title="DESENHOS 24HORAS",POKEMON T12 - BATALHAS GALATICAS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/523
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POPEYE" tvg-logo="https://1.bp.blogspot.com/-rjzQoCpCDPw/XPHe45jmaWI/AAAAAAAADSc/vV4s2Y2JWuwrVkpzGACMW9YrlKmPorF0gCLcBGAs/s1600/popeye.png  " group-title="DESENHOS 24HORAS",POPEYE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/524
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POWER RANGERS A GALÏ¿½XIA PERDIDA 7 TEMPORADA" tvg-logo="https://occ-0-1818-37.1.nflxso.net/dnm/api/v6/TsSRXvDuraoJ7apdkH6tsHhf-ZQ/AAAABZLh0uGR9Z0H-cTZimCMUHZMGJhIjLmJ0ZZh5Cb88SG-zRXEHqyeFGxCwNPWM5HEspq9tUihvQPk3wFv-n68xPwMIRBOKhYKAccd.png?r=ee3 " group-title="DESENHOS 24HORAS",POWER RANGERS A GALÏ¿½XIA PERDIDA 7 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/598
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS DINO THUNDER 12 TEMPORADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/PR_Dino_Thunder_logo.png/250px-PR_Dino_Thunder_logo.png " group-title="DESENHOS 24HORAS",POWER RANGERS DINO THUNDER 12 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/600
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS MIGHTY MORPHIN 1 TEMPORADA" tvg-logo="https://www.mangauk.com/wp-content/uploads/2017/06/mighty-morphin-power-rangers-complete-season-two-400x600.png " group-title="DESENHOS 24HORAS",POWER RANGERS MIGHTY MORPHIN 1 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/593
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS MIGHTY MORPHIN 2 TEMPORADA" tvg-logo="https://www.mangauk.com/wp-content/uploads/2017/06/mighty-morphin-power-rangers-complete-season-two-400x600.png " group-title="DESENHOS 24HORAS",POWER RANGERS MIGHTY MORPHIN 2 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/594
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS MIGHTY MORPHIN 3 TEMPORADA" tvg-logo="https://www.mangauk.com/wp-content/uploads/2017/06/mighty-morphin-power-rangers-complete-season-two-400x600.png " group-title="DESENHOS 24HORAS",POWER RANGERS MIGHTY MORPHIN 3 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/595
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS NINJA STORM 11 TEMPORADA" tvg-logo="https://occ-0-1818-590.1.nflxso.net/dnm/api/v6/TsSRXvDuraoJ7apdkH6tsHhf-ZQ/AAAABTHlpKnK9t3UXpg_bedWOm1vXwLmSGNRV1WSzn7zpjbMvLJ47qz_RInA5d9orpp0saJrLwfBrMA8J0l8FyHjCTjkZAjr8jGnRkKD.png?r=3ce " group-title="DESENHOS 24HORAS",POWER RANGERS NINJA STORM 11 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/599
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS SPACE PATROL DELTA 13 TEMPORADA" tvg-logo="https://occ-0-1818-586.1.nflxso.net/dnm/api/v6/TsSRXvDuraoJ7apdkH6tsHhf-ZQ/AAAABdFUUXy7WbQjSFzxG0gpH_AnonKFvmpeGX3abQmp4zvh3vX8Ao54wuvC3nMq1MK9UNXKN6dBPSe7XUlR6ZVKn3NaTscNatmNisUK.png?r=392 " group-title="DESENHOS 24HORAS",POWER RANGERS SPACE PATROL DELTA 13 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/601
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS TURBO 5 TEMPORADA" tvg-logo="https://occ-0-1818-33.1.nflxso.net/dnm/api/v6/TsSRXvDuraoJ7apdkH6tsHhf-ZQ/AAAABTk89P7XTKIoX2Qdr_dK4OBwZnV69uuiTJI854Trc7TQBsLSRy_DUjU9-WYe1bKDD0pyYeEVmEJpMIkRwpjqKdau8lKFASu1Xl1_.png?r=5de" group-title="DESENHOS 24HORAS",POWER RANGERS TURBO 5 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/597
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS ZEO 4 TEMPORADA" tvg-logo="https://occ-0-1001-444.1.nflxso.net/dnm/api/v6/5e0byrbbfBPBmtxyXMpKqMuqOQY/AAAABUsVMLxlaybgMMhZdSMKUJEon9gfVVvbf09-sKTL6zehwZ3JCreXLiZD5LC2yHPFxL0EK1UOYdQhz9uSLez-2pqAihl5XTa8XHA9.png?r=65c " group-title="DESENHOS 24HORAS",POWER RANGERS ZEO 4 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/596
+#EXTINF:-1 tvg-id="" tvg-name="POWER STONE" tvg-logo="https://1.bp.blogspot.com/-_iNNeui7O7M/XPHqGhnZnFI/AAAAAAAADTM/Y6uP-8J06govC4RZofLwCf1yGGcpgiVdACLcBGAs/s1600/powerstone.png " group-title="DESENHOS 24HORAS",POWER STONE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/525
+#EXTINF:-1 tvg-id="" tvg-name="PROJETO ZETA" tvg-logo="https://1.bp.blogspot.com/-byxyhic8QwA/XPHqGmcj9kI/AAAAAAAADTQ/1TrsAr7LkmI270PF2Qs3eO2zm39NB1MPACLcBGAs/s1600/projetozeta.png " group-title="DESENHOS 24HORAS",PROJETO ZETA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/526
+#EXTINF:-1 tvg-id="" tvg-name="RAMBO - A FORÏ¿½A DA LIBERDADE" tvg-logo="https://1.bp.blogspot.com/-1oCvlmLwsHs/XPKz9laHFWI/AAAAAAAADTw/2iQFPJjDFJ0_ex38jFWNs2NUhnROvzZTwCEwYBhgL/s1600/ramboaforcadaliberdade.png " group-title="DESENHOS 24HORAS",RAMBO - A FORÏ¿½A DA LIBERDADE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/527
+#EXTINF:-1 tvg-id="" tvg-name="RECRUTA ZERO" tvg-logo="https://1.bp.blogspot.com/-EIJfnLP_mqM/XPKz9tC74HI/AAAAAAAADTs/BRl7adBtsuAuJNPuJn1suqRn-aauuT2mwCEwYBhgL/s1600/recrutazero.png " group-title="DESENHOS 24HORAS",RECRUTA ZERO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/528
+#EXTINF:-1 tvg-id="" tvg-name="REDAKAI" tvg-logo="https://1.bp.blogspot.com/-MhfKbTHicD4/XPKz9qwjUzI/AAAAAAAADT0/2K-7SmGZYWMetYI-1mre6jDHpLo74gGJgCEwYBhgL/s1600/redakai.png " group-title="DESENHOS 24HORAS",REDAKAI
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/529
+#EXTINF:-1 tvg-id="" tvg-name="RIQUINHO" tvg-logo="https://1.bp.blogspot.com/-NUwv1bh_HnI/XPKz-faYvII/AAAAAAAADT4/jW2k4hTIuAE56FToArGaC91tbh7gAPOSQCEwYBhgL/s1600/riquinho.png " group-title="DESENHOS 24HORAS",RIQUINHO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/530
+#EXTINF:-1 tvg-id="" tvg-name="ROCKET POWER" tvg-logo="https://1.bp.blogspot.com/-vUhEsO1H5cA/XPKz-meJBDI/AAAAAAAADT8/wru-mmZk2Mw80xHrI4_pIj8sdvZXfnQ-ACEwYBhgL/s1600/rocketpower.png " group-title="DESENHOS 24HORAS",ROCKET POWER
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/531
+#EXTINF:-1 tvg-id="" tvg-name="SAKURA CARD CAPTORS" tvg-logo="https://1.bp.blogspot.com/-fhOqGB0p508/XPK0AkuGUtI/AAAAAAAADUA/MV6rC2b-OqMsfU_r-xwUgkzvIkSAVprywCEwYBhgL/s1600/sakuracardcaptor.png " group-title="DESENHOS 24HORAS",SAKURA CARD CAPTORS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/532
+#EXTINF:-1 tvg-id="" tvg-name="SAMURAI WARRIORS" tvg-logo="https://1.bp.blogspot.com/-A2eD6ZWv0cY/XPK0A1YD2UI/AAAAAAAADUE/HRaUWGx6qgMrHU-7GCNccB3eXTjOURmhACEwYBhgL/s1600/samuraiwarrior.png " group-title="DESENHOS 24HORAS",SAMURAI WARRIORS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/533
+#EXTINF:-1 tvg-id="" tvg-name="SHAMAN KING" tvg-logo="https://1.bp.blogspot.com/-vZmLxizfIrw/XPK0BU4tDCI/AAAAAAAADUM/HMpwCbnMf1QJIBMp3X8iTrVrLZ4M6hrrQCEwYBhgL/s1600/shamanking.png " group-title="DESENHOS 24HORAS",SHAMAN KING
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/534
+#EXTINF:-1 tvg-id="" tvg-name="SHE-RA" tvg-logo="https://1.bp.blogspot.com/-3Be8EyWdaig/XPK0ByOs_oI/AAAAAAAADUQ/CM6JdEVxHz42zrJ_SkyaGmDJNcUBrjMQACEwYBhgL/s1600/shera.png " group-title="DESENHOS 24HORAS",SHE-RA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/535
+#EXTINF:-1 tvg-id="" tvg-name="SHINZO" tvg-logo="https://1.bp.blogspot.com/-UkzrOS-CuUI/XPK0CR_iGuI/AAAAAAAADUU/e0HjPhYBaUch5mWwtYxYPOS3RXlH7iTLQCEwYBhgL/s1600/shinzo.png " group-title="DESENHOS 24HORAS",SHINZO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/536
+#EXTINF:-1 tvg-id="EliteShowdaLuna.br" tvg-name="SHOW DA LUNA" tvg-logo="https://1.bp.blogspot.com/-lVgmKE8wQEo/XPK1eEISxzI/AAAAAAAADVg/E4eyyXMN5hEIymTxlWv3WWCrRVHVsQ-sgCLcBGAs/s1600/oshowdaluna.png" group-title="DESENHOS 24HORAS",SHOW DA LUNA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/6006
+#EXTINF:-1 tvg-id="" tvg-name="SHURATO" tvg-logo="https://1.bp.blogspot.com/-qdAwNHfKm7E/XPK0R9q3SjI/AAAAAAAADU0/NfpNUBbwkcowKCv0Gzd1jx5OHsgvIczmQCLcBGAs/s320/shurato.png " group-title="DESENHOS 24HORAS",SHURATO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/537
+#EXTINF:-1 tvg-id="" tvg-name="SILVERHAWKS" tvg-logo="https://1.bp.blogspot.com/-2e7Kaa4GiQQ/XPK0RR-F0QI/AAAAAAAADUo/odmTaJoGaxY2Hr4lZl3-SriB76yNP89QgCLcBGAs/s1600/silverhawks.png " group-title="DESENHOS 24HORAS",SILVERHAWKS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/538
+#EXTINF:-1 tvg-id="EliteSitio.br" tvg-name="SITIO DO PICA-PAU AMARELO ANIMADO" tvg-logo="https://4.bp.blogspot.com/-8LT2Kz14dcI/XFrMKn-Dl9I/AAAAAAAACtU/R8UNVnHZCmQR-VawAjAqET2zrDDCL8ZcwCLcBGAs/s1600/sitioanimado.png" group-title="DESENHOS 24HORAS",SITIO DO PICA-PAU AMARELO ANIMADO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11137
+#EXTINF:-1 tvg-id="" tvg-name="SPACE GHOST" tvg-logo="https://1.bp.blogspot.com/-XhmhYgkFvns/XPK0SPMjveI/AAAAAAAADU4/mFfOT8wJb4wF09vSInSw44AG-0W7quSiACLcBGAs/s1600/spaceghost.png" group-title="DESENHOS 24HORAS",SPACE GHOST
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/540
+#EXTINF:-1 tvg-id="" tvg-name="SPEED RACER A NOVA GERAÇÃO" tvg-logo="https://1.bp.blogspot.com/-87UEnHynHGc/XPK0SSGSavI/AAAAAAAADU8/4vCHshgWuVE4IiqdHC1sA2ScBPl2Spy3wCLcBGAs/s1600/speedraceranovageracao.png " group-title="DESENHOS 24HORAS",SPEED RACER A NOVA GERAÇÃO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/541
+#EXTINF:-1 tvg-id="" tvg-name="SPEED RACER CLÏ¿½SSICO" tvg-logo="https://1.bp.blogspot.com/-XRTOmRYsjLs/XPK15HCl4HI/AAAAAAAADVo/wFKyNLqgFLYsxVPr63Nm80GuRXzH9YZiACLcBGAs/s1600/speedracerclassico.png  " group-title="DESENHOS 24HORAS",SPEED RACER CLÏ¿½SSICO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/542
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MARIO BROS 3" tvg-logo="https://1.bp.blogspot.com/-cGKwr25HY8w/XPK2QWmHZ5I/AAAAAAAADV4/OA1uWMAgmvYT3KFjt4gtXZk2D7LOo-ongCLcBGAs/s1600/supermariobros3.png " group-title="DESENHOS 24HORAS",SUPER MARIO BROS 3
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/543
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SHOCK" tvg-logo="https://1.bp.blogspot.com/-1z6qAgTyjVw/XPK2CCJjCNI/AAAAAAAADVw/WboMUbc5X0YuD8wgZOOSYxdbIN09_GsvwCLcBGAs/s1600/superchoque.png " group-title="DESENHOS 24HORAS",SUPER SHOCK
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/592
+#EXTINF:-1 tvg-id="" tvg-name="TARTARUGA TOUCHÉ E DUM DUM" tvg-logo="https://1.bp.blogspot.com/-41GNd8TgmaM/XPXBAktmKUI/AAAAAAAADWE/N0CDjH_w3t457eulg9AofxEMH3Hp-BMlQCLcBGAs/s1600/tartarugatoucheedumdum.png " group-title="DESENHOS 24HORAS",TARTARUGA TOUCHÉ E DUM DUM
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/544
+#EXTINF:-1 tvg-id="" tvg-name="TARZAN O REI DA SELVA" tvg-logo="https://1.bp.blogspot.com/-uD-8SMvRcWg/XPXBA00WhfI/AAAAAAAADWM/UXZ2dMAr58sayYDyV9AWpLt_CiEeWf6OACLcBGAs/s1600/tarzanoreidaselva.png " group-title="DESENHOS 24HORAS",TARZAN O REI DA SELVA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/545
+#EXTINF:-1 tvg-id="" tvg-name="TAZ-MANIA" tvg-logo="https://1.bp.blogspot.com/-hd1zwokKAJc/XPXBAxVTQyI/AAAAAAAADWI/YrvFc_RSWVkYL8OJ513OwhiVx3qWR_K7QCLcBGAs/s1600/tazmania.png " group-title="DESENHOS 24HORAS",TAZ-MANIA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/546
+#EXTINF:-1 tvg-id="" tvg-name="TEAM GALAXY" tvg-logo="https://1.bp.blogspot.com/-H59rQbQCM3k/XPXBBYJB6RI/AAAAAAAADWQ/W-8pqWlAzYkuWUyNv5xgqlQavEZwRnc6wCLcBGAs/s1600/teamgalaxy.png " group-title="DESENHOS 24HORAS",TEAM GALAXY
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/547
+#EXTINF:-1 tvg-id="" tvg-name="TELETUBBIES CLASSICO" tvg-logo="https://1.bp.blogspot.com/-tpnaui_1Pc8/XPXBB_0BBHI/AAAAAAAADWU/OZCifCIO1zcCHoCQPw6wtH_64kAtwhnHwCLcBGAs/s1600/teletubbies.png " group-title="DESENHOS 24HORAS",TELETUBBIES CLASSICO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/548
+#EXTINF:-1 tvg-id="" tvg-name="TELETUBBIES STOP MOTION" tvg-logo="https://1.bp.blogspot.com/-BTvj-_u8VYM/XPXBCXQ004I/AAAAAAAADWY/ownDzCHF3DwqrxW53NTc9m1-kplhmsmIQCLcBGAs/s1600/teletubbiesstopmotion.png " group-title="DESENHOS 24HORAS",TELETUBBIES STOP MOTION
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/550
+#EXTINF:-1 tvg-id="" tvg-name="THE OBLONGS" tvg-logo="https://1.bp.blogspot.com/-HNCiXpMvyKs/XPXBCcDq1TI/AAAAAAAADWc/BA6KswniLCc0qtB2cXXxGMRp9p0mCvJnwCLcBGAs/s1600/theoblongs.png " group-title="DESENHOS 24HORAS",THE OBLONGS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/551
+#EXTINF:-1 tvg-id="" tvg-name="THOMAS E SEUS AMIGOS" tvg-logo="https://1.bp.blogspot.com/-p6VRP4EsSa8/XPXBCkLd7jI/AAAAAAAADWg/QZHqOQwjdawKgYu3IyLvYyekk_4p6HaKQCLcBGAs/s1600/thomaseseusamigos.png " group-title="DESENHOS 24HORAS",THOMAS E SEUS AMIGOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/552
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="THOMAS E SEUS AMIGOS" tvg-logo="https://1.bp.blogspot.com/-p6VRP4EsSa8/XPXBCkLd7jI/AAAAAAAADWg/QZHqOQwjdawKgYu3IyLvYyekk_4p6HaKQCLcBGAs/s1600/thomaseseusamigos.png" group-title="DESENHOS 24HORAS",THOMAS E SEUS AMIGOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/16754
+#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS 1" tvg-logo="https://1.bp.blogspot.com/-DKKJG2vAtwE/XPXBC4l5h_I/AAAAAAAADWk/PUDoUSvsW38JFsghRUl_XL3UWwztQOltQCLcBGAs/s1600/thundercats.png " group-title="DESENHOS 24HORAS",THUNDERCATS 1
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/553
+#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS 2" tvg-logo="https://1.bp.blogspot.com/-DKKJG2vAtwE/XPXBC4l5h_I/AAAAAAAADWk/PUDoUSvsW38JFsghRUl_XL3UWwztQOltQCLcBGAs/s1600/thundercats.png " group-title="DESENHOS 24HORAS",THUNDERCATS 2
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1152
+#EXTINF:-1 tvg-id="" tvg-name="TICO E TECO" tvg-logo="https://pbs.twimg.com/profile_images/1101679107/tico.gif " group-title="DESENHOS 24HORAS",TICO E TECO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1160
+#EXTINF:-1 tvg-id="" tvg-name="TIDDLYTUBBIES" tvg-logo="https://1.bp.blogspot.com/-XbNpYDAbnPY/XPXBDOCFNaI/AAAAAAAADWo/1Sdv3fwImGYFukrhZ4uuvQTMBA5zMzy4gCLcBGAs/s1600/tiddytubbies.png " group-title="DESENHOS 24HORAS",TIDDLYTUBBIES
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/549
+#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA" tvg-logo="https://1.bp.blogspot.com/-aFthlcBNH60/XPXBDe5K5WI/AAAAAAAADWs/SrX451QuUkcE_YFxtyJbXtLw-bjYWa9GgCLcBGAs/s1600/timaoepumba.png " group-title="DESENHOS 24HORAS",TIMAO E PUMBA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/554
+#EXTINF:-1 tvg-id="-GloboCANAIS" tvg-name="TOM E JERRY" tvg-logo="https://1.bp.blogspot.com/-mG28Iy1fq_E/XPXBDmu3TsI/AAAAAAAADWw/a_KVsGIvY7QIeBEixU6evCZ_vyUza85QgCLcBGAs/s1600/tomejerry.png " group-title="DESENHOS 24HORAS",TOM E JERRY
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/555
+#EXTINF:-1 tvg-id="" tvg-name="TUTUBARAO" tvg-logo="https://1.bp.blogspot.com/-1CvGREO5Ii8/XPXBEEddqeI/AAAAAAAADW4/ZkpE2GpEZRwRH7MQ3OSFRTSlYAiDoVxFgCLcBGAs/s1600/tutubarao.png " group-title="DESENHOS 24HORAS",TUTUBARAO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/556
+#EXTINF:-1 tvg-id="" tvg-name="ULTRAMEN" tvg-logo="https://vignette.wikia.nocookie.net/ultra/images/9/94/Ultraman_Info.png/revision/latest/top-crop/width/360/height/450?cb=20191228011444 " group-title="DESENHOS 24HORAS",ULTRAMEN
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/557
+#EXTINF:-1 tvg-id="" tvg-name="URSINHOS CARINHOSOS" tvg-logo="https://1.bp.blogspot.com/-9jWifi4mkGI/XPXBVukD6-I/AAAAAAAADXg/PMZTizjfFZo07_4pEyR5XaKEy-iHfIgJQCLcBGAs/s1600/ursinhoscarinhosos.png " group-title="DESENHOS 24HORAS",URSINHOS CARINHOSOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/558
+#EXTINF:-1 tvg-id="" tvg-name="VALE DOS DINOSSAUROS" tvg-logo="https://1.bp.blogspot.com/-3Cn77byWEOE/XPXBa1Q3HgI/AAAAAAAADXk/30VGL0Y-ZhEVx5MFzfcn6YsCfbZ4p0zbgCLcBGAs/s1600/valedosdinossauros.png " group-title="DESENHOS 24HORAS",VALE DOS DINOSSAUROS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/559
+#EXTINF:-1 tvg-id="" tvg-name="WALLY GATOR" tvg-logo="https://1.bp.blogspot.com/-BzkJkCwD-m0/XPXBgm5X9II/AAAAAAAADXo/ARg7dZd5et0R1HR7uCihuuF6-MifoQXSQCLcBGAs/s1600/wallygator.png " group-title="DESENHOS 24HORAS",WALLY GATOR
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/560
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN EVOLUTION" tvg-logo="https://www.seekpng.com/png/full/277-2773281_evolution-tv-show-image-with-logo-and-character.png  " group-title="DESENHOS 24HORAS",X-MEN EVOLUTION
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/561
+#EXTINF:-1 tvg-id="" tvg-name="XUXA SO PARA BAIXINHOS" tvg-logo="https://xuxasoparabaixinhos.weebly.com/uploads/1/1/6/6/116699569/1515082192986_orig.png " group-title="DESENHOS 24HORAS",XUXA SO PARA BAIXINHOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/562
+#EXTINF:-1 tvg-id="" tvg-name="ZATCH BELL" tvg-logo="https://1.bp.blogspot.com/-oUe1n1LCxdA/XPXBsBLX31I/AAAAAAAADYA/h2S1Q7JXV_YMJOnE7MVvZcU-AVwGYNuAACLcBGAs/s1600/zatchbell.png " group-title="DESENHOS 24HORAS",ZATCH BELL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/563
+#EXTINF:-1 tvg-id="" tvg-name="ZE BUSCAPE" tvg-logo="https://i.imgur.com/IHgAbuI.png " group-title="DESENHOS 24HORAS",ZE BUSCAPE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/564
+#EXTINF:-1 tvg-id="EliteEscolinhaProfRaimundo.br" tvg-name="24H ESCOLINHA PROFESSOR RAIMUNDO" tvg-logo="https://4.bp.blogspot.com/-Qfi5CZfs6p0/XFrPX_uG-vI/AAAAAAAACt4/ZBLoD2InKsk7oa-xTOG-mlOBuYUImp-0ACLcBGAs/s1600/escolinha.png" group-title="ESPECIAIS 24HORAS",24H ESCOLINHA PROFESSOR RAIMUNDO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10794
+#EXTINF:-1 tvg-id="ElitePegaSilvio.br" tvg-name="24H PEGADINHAS SILVIO SANTOS" tvg-logo="https://2.bp.blogspot.com/-auRPhYOIsak/XFrNSsL7tLI/AAAAAAAACtg/O_dAFl_knbgzW9ss5afiYR7ZdruzvpmBgCLcBGAs/s1600/pegadinhassilvio.png" group-title="ESPECIAIS 24HORAS",24H PEGADINHAS SILVIO SANTOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10795
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BATES MOTEL T01" tvg-logo="" group-title="ESPECIAIS 24HORAS",BATES MOTEL T01
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033885
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BATES MOTEL T02" tvg-logo="" group-title="ESPECIAIS 24HORAS",BATES MOTEL T02
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033886
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BATES MOTEL T03" tvg-logo="" group-title="ESPECIAIS 24HORAS",BATES MOTEL T03
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033887
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BATES MOTEL T04" tvg-logo="" group-title="ESPECIAIS 24HORAS",BATES MOTEL T04
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033888
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BATES MOTEL T05" tvg-logo="" group-title="ESPECIAIS 24HORAS",BATES MOTEL T05
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033889
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BEAVIS AND BUTT HEAD (LEG) (1993)" tvg-logo="" group-title="ESPECIAIS 24HORAS",BEAVIS AND BUTT HEAD (LEG) (1993)
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033883
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BIG BANG TEMP 04 A 06" tvg-logo="https://i.imgur.com/Jjf9pm1.png" group-title="ESPECIAIS 24HORAS",BIG BANG TEMP 04 A 06
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/577
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BIG BANG TEMP 07 A 09" tvg-logo="https://i.imgur.com/Jjf9pm1.png" group-title="ESPECIAIS 24HORAS",BIG BANG TEMP 07 A 09
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/578
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BIG BANG THEORY TEMP 10 A 12" tvg-logo="https://i.imgur.com/Jjf9pm1.png" group-title="ESPECIAIS 24HORAS",BIG BANG THEORY TEMP 10 A 12
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/579
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BREAKING BAD T01" tvg-logo="" group-title="ESPECIAIS 24HORAS",BREAKING BAD T01
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033890
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BREAKING BAD T02" tvg-logo="" group-title="ESPECIAIS 24HORAS",BREAKING BAD T02
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033891
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BREAKING BAD T03" tvg-logo="" group-title="ESPECIAIS 24HORAS",BREAKING BAD T03
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033892
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BREAKING BAD T04" tvg-logo="" group-title="ESPECIAIS 24HORAS",BREAKING BAD T04
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033893
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BREAKING BAD T05" tvg-logo="" group-title="ESPECIAIS 24HORAS",BREAKING BAD T05
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033894
+#EXTINF:-1 tvg-id="EliteChaves.br" tvg-name="CHAVES" tvg-logo="https://4.bp.blogspot.com/-oBrIC_dwGpE/WfAJfyjkAsI/AAAAAAAACOw/jIWAUaO9fKItHOg3DGh6-mNzuO_h6vnzACLcBGAs/s1600/CHA.png" group-title="ESPECIAIS 24HORAS",CHAVES
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/5431
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="CLASSICOS DISNEY 24H" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61n1hrTBsjL.jpg " group-title="ESPECIAIS 24HORAS",CLASSICOS DISNEY 24H
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1139
+#EXTINF:-1 tvg-id="EliteCsi.br" tvg-name="CSI" tvg-logo="https://2.bp.blogspot.com/-ng7_qyE-CN4/XFsWbTGmceI/AAAAAAAACvw/y-C-aeolemsA6vsMYMsSDOAlr6BMOEy6ACLcBGAs/s1600/csi.png" group-title="ESPECIAIS 24HORAS",CSI
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/5655
+#EXTINF:-1 tvg-id="EliteDoctorWho.br" tvg-name="DOCTOR WHO" tvg-logo="http://servelive.net:8080/images/9Jt2FFCAME7eHDC28r4qCHErhhF_small.jpg  " group-title="ESPECIAIS 24HORAS",DOCTOR WHO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/581
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DOIS HOMENS E MEIO - 1 TEMPORADA" tvg-logo="https://i.imgur.com/yJKrQX7.png" group-title="ESPECIAIS 24HORAS",DOIS HOMENS E MEIO - 1 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/602
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DOIS HOMENS E MEIO - 10 TEMPORADA" tvg-logo="https://i.imgur.com/yJKrQX7.png " group-title="ESPECIAIS 24HORAS",DOIS HOMENS E MEIO - 10 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/611
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DOIS HOMENS E MEIO - 11 TEMPORADA" tvg-logo="https://i.imgur.com/yJKrQX7.png " group-title="ESPECIAIS 24HORAS",DOIS HOMENS E MEIO - 11 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/612
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DOIS HOMENS E MEIO - 12 TEMPORADA" tvg-logo="https://i.imgur.com/yJKrQX7.png " group-title="ESPECIAIS 24HORAS",DOIS HOMENS E MEIO - 12 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/613
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DOIS HOMENS E MEIO - 2 TEMPORADA" tvg-logo="https://i.imgur.com/yJKrQX7.png " group-title="ESPECIAIS 24HORAS",DOIS HOMENS E MEIO - 2 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/603
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DOIS HOMENS E MEIO - 3 TEMPORADA" tvg-logo="https://i.imgur.com/yJKrQX7.png " group-title="ESPECIAIS 24HORAS",DOIS HOMENS E MEIO - 3 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/604
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DOIS HOMENS E MEIO - 4 TEMPORADA" tvg-logo="https://i.imgur.com/yJKrQX7.png " group-title="ESPECIAIS 24HORAS",DOIS HOMENS E MEIO - 4 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/605
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DOIS HOMENS E MEIO - 5 TEMPORADA" tvg-logo="https://i.imgur.com/yJKrQX7.png " group-title="ESPECIAIS 24HORAS",DOIS HOMENS E MEIO - 5 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/606
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DOIS HOMENS E MEIO - 6 TEMPORADA" tvg-logo="https://i.imgur.com/yJKrQX7.png " group-title="ESPECIAIS 24HORAS",DOIS HOMENS E MEIO - 6 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/607
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DOIS HOMENS E MEIO - 7 TEMPORADA" tvg-logo="https://i.imgur.com/yJKrQX7.png " group-title="ESPECIAIS 24HORAS",DOIS HOMENS E MEIO - 7 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/608
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DOIS HOMENS E MEIO - 8 TEMPORADA" tvg-logo="https://i.imgur.com/yJKrQX7.png " group-title="ESPECIAIS 24HORAS",DOIS HOMENS E MEIO - 8 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/609
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DOIS HOMENS E MEIO - 9 TEMPORADA" tvg-logo="https://i.imgur.com/yJKrQX7.png " group-title="ESPECIAIS 24HORAS",DOIS HOMENS E MEIO - 9 TEMPORADA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/610
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DOIS HOMENS E MEIO 24H" tvg-logo="https://i.imgur.com/yJKrQX7.png " group-title="ESPECIAIS 24HORAS",DOIS HOMENS E MEIO 24H
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1141
+#EXTINF:-1 tvg-id="EliteHouse.br" tvg-name="DR HOUSE" tvg-logo="https://4.bp.blogspot.com/-1F8yYXC2igc/XFsXX-Czd5I/AAAAAAAACv8/zP5wqoCqJS4ZALcJRfJ2RupN9JlZRundgCLcBGAs/s1600/house.png " group-title="ESPECIAIS 24HORAS",DR HOUSE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/5654
+#EXTINF:-1 tvg-id="EliteAction.br" tvg-name="ELITE ACTION" tvg-logo="https://4.bp.blogspot.com/-M_yAYBYwqLc/XFgUZaORjcI/AAAAAAAACrM/oVFz5sxGYo4AT9bF_9wXKW72niaPi20igCLcBGAs/s1600/elite-action.png" group-title="ESPECIAIS 24HORAS",ELITE ACTION
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/16966
+#EXTINF:-1 tvg-id="EliteDC.br" tvg-name="ELITE DC" tvg-logo="https://4.bp.blogspot.com/-a5mIuV5YZbc/XFgXiEef3KI/AAAAAAAACsM/wdS8MBnun5AatgHLgSrED8_9yUdHYN8kACLcBGAs/s200/dcuniverse.png" group-title="ESPECIAIS 24HORAS",ELITE DC
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/16706
+#EXTINF:-1 tvg-id="EliteMarvel.br" tvg-name="ELITE MARVEL" tvg-logo="https://2.bp.blogspot.com/-N1UCZ5pBGYU/XFgVw_rKe2I/AAAAAAAACr8/WBW-u0XrMG0zzL_3FGZEQqjcJVOvq9S8QCLcBGAs/s200/logo-elitemarvel2.png" group-title="ESPECIAIS 24HORAS",ELITE MARVEL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10041110
+#EXTINF:-1 tvg-id="EliteTerror.br" tvg-name="ELITE TERROR" tvg-logo="https://4.bp.blogspot.com/-N8JC8gs403g/XFgUbC6-ZpI/AAAAAAAACrk/LxqlA6qPmYQO0evX-tjto_t4yiR029bmwCLcBGAs/s1600/elite-terror.png" group-title="ESPECIAIS 24HORAS",ELITE TERROR
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/16705
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ESCOLHINHA DO PROFESSOR RAIMUNDO" tvg-logo="https://4.bp.blogspot.com/-Qfi5CZfs6p0/XFrPX_uG-vI/AAAAAAAACt4/ZBLoD2InKsk7oa-xTOG-mlOBuYUImp-0ACLcBGAs/s1600/escolinha.png " group-title="ESPECIAIS 24HORAS",ESCOLHINHA DO PROFESSOR RAIMUNDO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/565
+#EXTINF:-1 tvg-id="EliteEuaPatroa.br" tvg-name="EU A PATROA E AS CRIANCAS TEMPORADA 1" tvg-logo="https://2.bp.blogspot.com/-fafX1003VZg/XFrhrJcY3bI/AAAAAAAACvI/P9H7ZjLUndg4eY2FX7Sicr6EyMuPSQo6ACLcBGAs/s1600/euapatroa.png" group-title="ESPECIAIS 24HORAS",EU A PATROA E AS CRIANCAS TEMPORADA 1
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/5648
+#EXTINF:-1 tvg-id="EliteEuaPatroa.br" tvg-name="EU A PATROA E AS CRIANCAS TEMPORADA 2" tvg-logo="https://media.fstatic.com/DNiG4_CgegBwgjBBVaXQlJKY_CQ=/fit-in/290x478/smart/media/movies/covers/2014/09/eu-a-patroa-e-as-criancas-5a-temporada_t30315_1.jpg" group-title="ESPECIAIS 24HORAS",EU A PATROA E AS CRIANCAS TEMPORADA 2
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11618
+#EXTINF:-1 tvg-id="EliteEuaPatroa.br" tvg-name="EU A PATROA E AS CRIANCAS TEMPORADA 3" tvg-logo="https://i2.wp.com/www.seriesfilmestorrent.com/wp-content/uploads/2016/05/Eu-a-Patroa-e-as-Criancas-1-a-5-Temporada-Dublado-Torrent-BluRay-720p.jpg?resize=256%2C296&amp;ssl=1" group-title="ESPECIAIS 24HORAS",EU A PATROA E AS CRIANCAS TEMPORADA 3
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11619
+#EXTINF:-1 tvg-id="EliteEuaPatroa.br" tvg-name="EU A PATROA E AS CRIANCAS TEMPORADA 4" tvg-logo="https://2.bp.blogspot.com/-fafX1003VZg/XFrhrJcY3bI/AAAAAAAACvI/P9H7ZjLUndg4eY2FX7Sicr6EyMuPSQo6ACLcBGAs/s1600/euapatroa.png" group-title="ESPECIAIS 24HORAS",EU A PATROA E AS CRIANCAS TEMPORADA 4
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/16672
+#EXTINF:-1 tvg-id="EliteEuaPatroa.br" tvg-name="EU A PATROA E AS CRIANCAS TEMPORADA 5" tvg-logo="https://2.bp.blogspot.com/-fafX1003VZg/XFrhrJcY3bI/AAAAAAAACvI/P9H7ZjLUndg4eY2FX7Sicr6EyMuPSQo6ACLcBGAs/s1600/euapatroa.png" group-title="ESPECIAIS 24HORAS",EU A PATROA E AS CRIANCAS TEMPORADA 5
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/16673
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="FRIENDS" tvg-logo="http://xx2.servelive.net/images/nvyx1LNbdQbq9xzU9LIuBcNAr2v_small.jpg " group-title="ESPECIAIS 24HORAS",FRIENDS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/583
+#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA" tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG2.png  " group-title="ESPECIAIS 24HORAS",FUTURAMA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1145
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GAME OF THRONES T01" tvg-logo="" group-title="ESPECIAIS 24HORAS",GAME OF THRONES T01
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033895
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GAME OF THRONES T02" tvg-logo="" group-title="ESPECIAIS 24HORAS",GAME OF THRONES T02
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033896
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GAME OF THRONES T03" tvg-logo="" group-title="ESPECIAIS 24HORAS",GAME OF THRONES T03
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033897
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GAME OF THRONES T04" tvg-logo="" group-title="ESPECIAIS 24HORAS",GAME OF THRONES T04
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033898
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GAME OF THRONES T05" tvg-logo="" group-title="ESPECIAIS 24HORAS",GAME OF THRONES T05
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033899
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GAME OF THRONES T06" tvg-logo="" group-title="ESPECIAIS 24HORAS",GAME OF THRONES T06
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033900
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GAME OF THRONES T07" tvg-logo="" group-title="ESPECIAIS 24HORAS",GAME OF THRONES T07
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033901
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GAME OF THRONES T08" tvg-logo="" group-title="ESPECIAIS 24HORAS",GAME OF THRONES T08
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033902
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GREYS ANATOMY" tvg-logo="http://tvipbr.net:8080/images/foM4ImvUXPrD2NvtkHyixq5vhPx_small.jpg" group-title="ESPECIAIS 24HORAS",GREYS ANATOMY
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/584
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="HERCULES" tvg-logo="https://lh3.googleusercontent.com/proxy/kMrefXtbglxE693bLPy4lEvfSSwk-kSKjntonTSy8-iu-VMAmAbF5uzNv8uslNR125Wur_N_PSgT0xclIvOD2J8uXziVvF3vIg " group-title="ESPECIAIS 24HORAS",HERCULES
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/585
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ICARLY T01" tvg-logo="" group-title="ESPECIAIS 24HORAS",ICARLY T01
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033903
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ICARLY T02" tvg-logo="" group-title="ESPECIAIS 24HORAS",ICARLY T02
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033904
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ICARLY T03" tvg-logo="" group-title="ESPECIAIS 24HORAS",ICARLY T03
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033905
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ICARLY T04" tvg-logo="" group-title="ESPECIAIS 24HORAS",ICARLY T04
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033906
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ICARLY T05" tvg-logo="" group-title="ESPECIAIS 24HORAS",ICARLY T05
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033907
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ICARLY T06" tvg-logo="" group-title="ESPECIAIS 24HORAS",ICARLY T06
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033908
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ICARLY T07" tvg-logo="" group-title="ESPECIAIS 24HORAS",ICARLY T07
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033909
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="KENAN E KELL" tvg-logo="" group-title="ESPECIAIS 24HORAS",KENAN E KELL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033910
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MACGYVER ORIGINAL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91u47BvH4YL._RI_.jpg" group-title="ESPECIAIS 24HORAS",MACGYVER ORIGINAL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10039213
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MASTER CHEF AMADORES T 04" tvg-logo="https://static.episodate.com/images/tv-show/full/48605.jpg" group-title="ESPECIAIS 24HORAS",MASTER CHEF AMADORES T 04
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10039211
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MASTER CHEF PROFISSIONAIS T 03" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU1YjE3MzUtMGEzYy00MDNjLTk1MTctMDZjMTQxZGY1MmQ3XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_.jpg" group-title="ESPECIAIS 24HORAS",MASTER CHEF PROFISSIONAIS T 03
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10039212
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MR BEAN 1" tvg-logo="https://2.bp.blogspot.com/-e9obsFLqK9U/XFsX1QcR79I/AAAAAAAACwE/viM2tztVqsYh7exrwOZ_LJhy09dgYedWwCLcBGAs/s1600/mrbean.png  " group-title="ESPECIAIS 24HORAS",MR BEAN 1
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/586
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="NARCOS T01" tvg-logo="" group-title="ESPECIAIS 24HORAS",NARCOS T01
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033911
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="NARCOS T02" tvg-logo="" group-title="ESPECIAIS 24HORAS",NARCOS T02
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033912
+#EXTINF:-1 tvg-id="EliteOSocio.br " tvg-name="O SOCIO" tvg-logo="https://4.bp.blogspot.com/-sNQsAKs4AI8/XGIrA-w4ZBI/AAAAAAAAC7E/Med2AyINpnAyaeRrp6sb1EzISIKwPuwsACLcBGAs/s1600/osocio.png" group-title="ESPECIAIS 24HORAS",O SOCIO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11281
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS FEITICEIROS DE WAVERLY PLACE (2007)" tvg-logo="" group-title="ESPECIAIS 24HORAS",OS FEITICEIROS DE WAVERLY PLACE (2007)
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033884
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="OS TRAPALHOES 24H" tvg-logo="https://2.bp.blogspot.com/-iiiyAPSqpdQ/VeIcynHXHSI/AAAAAAAAATI/GXJS856HyBo/s640/20130118094022643725a1.jpg  " group-title="ESPECIAIS 24HORAS",OS TRAPALHOES 24H
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1149
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PEGADINHAS PARTOBA" tvg-logo="https://i.ytimg.com/vi/pxMy-QB-yP4/hqdefault.jpg " group-title="ESPECIAIS 24HORAS",PEGADINHAS PARTOBA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/568
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PEGADINHAS SILVIO SANTOS" tvg-logo="https://2.bp.blogspot.com/-auRPhYOIsak/XFrNSsL7tLI/AAAAAAAACtg/O_dAFl_knbgzW9ss5afiYR7ZdruzvpmBgCLcBGAs/s1600/pegadinhassilvio.png " group-title="ESPECIAIS 24HORAS",PEGADINHAS SILVIO SANTOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/569
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PERDIDO NAS ESTRELAS" tvg-logo="" group-title="ESPECIAIS 24HORAS",PERDIDO NAS ESTRELAS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033913
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PERDIDOS NO ESPACO" tvg-logo="https://abrilveja.files.wordpress.com/2016/11/lis1.jpg    " group-title="ESPECIAIS 24HORAS",PERDIDOS NO ESPACO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/588
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PERDIDOS NO ESPACO" tvg-logo="" group-title="ESPECIAIS 24HORAS",PERDIDOS NO ESPACO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033914
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="POLICIA 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Pol%C3%ADcia_24h.jpg" group-title="ESPECIAIS 24HORAS",POLICIA 24H
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/571
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PRESENCA DE ANITA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Presen%C3%A7a_de_Anita_Logotipo.jpg/250px-Presen%C3%A7a_de_Anita_Logotipo.jpg" group-title="ESPECIAIS 24HORAS",PRESENCA DE ANITA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034286
+#EXTINF:-1 tvg-id="EliteSaideBaixo.br" tvg-name="SAI DE BAIXO" tvg-logo="https://1.bp.blogspot.com/-4TVYg8d129c/XFrYYyW89bI/AAAAAAAACuw/h8LtdwaWJOQsK7sEIq8dQhyJYdZa-ivowCLcBGAs/s1600/saidebaixo.png" group-title="ESPECIAIS 24HORAS",SAI DE BAIXO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/8099
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE T01" tvg-logo="" group-title="ESPECIAIS 24HORAS",SMALLVILLE T01
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033915
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE T02" tvg-logo="" group-title="ESPECIAIS 24HORAS",SMALLVILLE T02
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033916
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE T03" tvg-logo="" group-title="ESPECIAIS 24HORAS",SMALLVILLE T03
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033917
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE T04" tvg-logo="" group-title="ESPECIAIS 24HORAS",SMALLVILLE T04
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033918
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE T05" tvg-logo="" group-title="ESPECIAIS 24HORAS",SMALLVILLE T05
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033919
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE T06" tvg-logo="" group-title="ESPECIAIS 24HORAS",SMALLVILLE T06
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033920
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE T07" tvg-logo="" group-title="ESPECIAIS 24HORAS",SMALLVILLE T07
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033921
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE T08" tvg-logo="" group-title="ESPECIAIS 24HORAS",SMALLVILLE T08
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033922
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE T09" tvg-logo="" group-title="ESPECIAIS 24HORAS",SMALLVILLE T09
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033923
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE T10" tvg-logo="" group-title="ESPECIAIS 24HORAS",SMALLVILLE T10
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033924
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T01" tvg-logo="https://i.imgur.com/EiEzkjX.png" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T01
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033925
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T02" tvg-logo="https://i.imgur.com/EiEzkjX.png" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T02
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033926
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T03" tvg-logo="" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T03
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054088
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T04" tvg-logo="https://i.imgur.com/EiEzkjX.png" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T04
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033927
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T05" tvg-logo="https://i.imgur.com/EiEzkjX.png" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T05
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033928
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T06" tvg-logo="https://i.imgur.com/EiEzkjX.png" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T06
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033929
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T07" tvg-logo="https://i.imgur.com/EiEzkjX.png" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T07
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033930
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T08" tvg-logo="https://i.imgur.com/EiEzkjX.png" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T08
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033931
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T09" tvg-logo="https://i.imgur.com/EiEzkjX.png" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T09
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033932
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T10" tvg-logo="https://i.imgur.com/EiEzkjX.png" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T10
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033933
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T11" tvg-logo="https://i.imgur.com/EiEzkjX.png" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T11
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033934
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T12" tvg-logo="https://i.imgur.com/EiEzkjX.png" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T12
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033935
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T13" tvg-logo="https://i.imgur.com/EiEzkjX.png" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T13
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033936
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL T14" tvg-logo="https://i.imgur.com/EiEzkjX.png" group-title="ESPECIAIS 24HORAS",SUPERNATURAL T14
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033937
+#EXTINF:-1 tvg-id="" tvg-name="TESTE DE FIDELIDADE" tvg-logo="https://i0.statig.com.br/bancodeimagens/0b/dc/d2/0bdcd2egs273xq8aw9b1lhci0.jpg" group-title="ESPECIAIS 24HORAS",TESTE DE FIDELIDADE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/573
+#EXTINF:-1 tvg-id="EliteBigBang.br" tvg-name="THE BIG BANG THEORY" tvg-logo="https://i.imgur.com/Jjf9pm1.png" group-title="ESPECIAIS 24HORAS",THE BIG BANG THEORY
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1159
+#EXTINF:-1 tvg-id="EliteBigBang.br " tvg-name="THE BIG BANG THEORY TEMP 01 A 03" tvg-logo="https://i.imgur.com/Jjf9pm1.png" group-title="ESPECIAIS 24HORAS",THE BIG BANG THEORY TEMP 01 A 03
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/5649
+#EXTINF:-1 tvg-id="EliteBigBang.br" tvg-name="THE BIG BANG THEORY TEMP 04 A 06" tvg-logo="https://i.imgur.com/Jjf9pm1.png" group-title="ESPECIAIS 24HORAS",THE BIG BANG THEORY TEMP 04 A 06
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11620
+#EXTINF:-1 tvg-id="EliteBigBang.br" tvg-name="THE BIG BANG THEORY TEMP 07 A 09" tvg-logo="https://i.imgur.com/Jjf9pm1.png" group-title="ESPECIAIS 24HORAS",THE BIG BANG THEORY TEMP 07 A 09
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11621
+#EXTINF:-1 tvg-id="EliteBigBang.br" tvg-name="THE BIG BANG THEORY TEMP 10 A 12" tvg-logo="https://i.imgur.com/Jjf9pm1.png" group-title="ESPECIAIS 24HORAS",THE BIG BANG THEORY TEMP 10 A 12
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11622
+#EXTINF:-1 tvg-id="EliteChris.br " tvg-name="TODO MUNDO ODEIA O CHRIS TEMP 1" tvg-logo="https://i.imgur.com/OpUKWwU.png" group-title="ESPECIAIS 24HORAS",TODO MUNDO ODEIA O CHRIS TEMP 1
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/5948
+#EXTINF:-1 tvg-id="EliteChris.br" tvg-name="TODO MUNDO ODEIA O CHRIS TEMP 2" tvg-logo="https://i.imgur.com/OpUKWwU.png" group-title="ESPECIAIS 24HORAS",TODO MUNDO ODEIA O CHRIS TEMP 2
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11615
+#EXTINF:-1 tvg-id="EliteChris.br" tvg-name="TODO MUNDO ODEIA O CHRIS TEMP 3" tvg-logo="https://i.imgur.com/OpUKWwU.png" group-title="ESPECIAIS 24HORAS",TODO MUNDO ODEIA O CHRIS TEMP 3
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11616
+#EXTINF:-1 tvg-id="EliteChris.br" tvg-name="TODO MUNDO ODEIA O CHRIS TEMP 4" tvg-logo="https://i.imgur.com/OpUKWwU.png" group-title="ESPECIAIS 24HORAS",TODO MUNDO ODEIA O CHRIS TEMP 4
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11617
+#EXTINF:-1 tvg-id="EliteChris.br" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="https://i.imgur.com/OpUKWwU.png" group-title="ESPECIAIS 24HORAS",TODO MUNDO ODEIA O CRIS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1153
+#EXTINF:-1 tvg-id="EliteTomala.br" tvg-name="TOMA LA DA CA" tvg-logo="https://1.bp.blogspot.com/--sBhxUYkyf0/XFrUFA1nvnI/AAAAAAAACuU/VyrYkCucIZg7i02poFzPOmKQFXRTeJbJwCLcBGAs/s1600/tomaladaca.png" group-title="ESPECIAIS 24HORAS",TOMA LA DA CA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/7334
+#EXTINF:-1 tvg-id="" tvg-name="TUNEL DO TEMPO" tvg-logo="https://abrilveja.files.wordpress.com/2016/11/tunel-do-tempo-15-546x620.jpg?quality=70&amp;strip=info&amp;w=447&amp;h=507 " group-title="ESPECIAIS 24HORAS",TUNEL DO TEMPO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/589
+#EXTINF:-1 tvg-id="EliteTwoAnd.br" tvg-name="TWO AND HALF MAN - DOIS HOMENS E MEIO TEMP 12" tvg-logo="https://2.bp.blogspot.com/-VfOu2VhAoUs/XFsYrC3-bbI/AAAAAAAACwU/JF7t-ZqpPuo9KZCmktLSYj86OGJylHHJgCLcBGAs/s1600/twoand.png" group-title="ESPECIAIS 24HORAS",TWO AND HALF MAN - DOIS HOMENS E MEIO TEMP 12
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/5463
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO" tvg-logo="https://i.imgur.com/Npa88d1.png" group-title="ESPECIAIS 24HORAS",UM MALUCO NO PEDACO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/1154
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO T01" tvg-logo="https://i.imgur.com/Npa88d1.png" group-title="ESPECIAIS 24HORAS",UM MALUCO NO PEDACO T01
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033938
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO T02" tvg-logo="https://i.imgur.com/Npa88d1.png" group-title="ESPECIAIS 24HORAS",UM MALUCO NO PEDACO T02
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033939
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO T03" tvg-logo="https://i.imgur.com/Npa88d1.png" group-title="ESPECIAIS 24HORAS",UM MALUCO NO PEDACO T03
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033940
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO T04" tvg-logo="https://i.imgur.com/Npa88d1.png" group-title="ESPECIAIS 24HORAS",UM MALUCO NO PEDACO T04
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033941
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO T05" tvg-logo="https://i.imgur.com/Npa88d1.png" group-title="ESPECIAIS 24HORAS",UM MALUCO NO PEDACO T05
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033942
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO T06" tvg-logo="https://i.imgur.com/Npa88d1.png" group-title="ESPECIAIS 24HORAS",UM MALUCO NO PEDACO T06
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033943
+#EXTINF:-1 tvg-id="EliteVaiQueCola.br" tvg-name="VAI QUE COLA" tvg-logo="https://3.bp.blogspot.com/-o77LD9WJH5o/XFrXgoLNE8I/AAAAAAAACuk/k3Gm8pN4NgIWrxVPMISk-P9SZn6mJtoTwCLcBGAs/s1600/vaiquecola.png" group-title="ESPECIAIS 24HORAS",VAI QUE COLA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/5445
+#EXTINF:-1 tvg-id="" tvg-name="YOUNG SHELDON" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c98f4641-4fbf-487c-9386-995b8db29e46/dboqpaq-889102b2-3c1d-4768-97cf-36540f99788e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M5OGY0NjQxLTRmYmYtNDg3Yy05Mzg2LTk5NWI4ZGIyOWU0NlwvZGJvcXBhcS04ODkxMDJiMi0zYzFkLTQ3NjgtOTdjZi0zNjU0MGY5OTc4OGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6G54DlVEHjHvXf8ZCBJ4Fyw3gwKnC-HL077cnVOK7UU " group-title="ESPECIAIS 24HORAS",YOUNG SHELDON
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/591
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="LIVE OS MENOTTI" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",LIVE OS MENOTTI
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054083
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="LIVE ALEXANDRE PIRES" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",LIVE ALEXANDRE PIRES
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054082
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="LIVE JOAO BOSCO E VINICIUS" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",LIVE JOAO BOSCO E VINICIUS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054081
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="LIVE FERNANDO E SOROCABA" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",LIVE FERNANDO E SOROCABA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054080
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="LIVE MANO WALTER" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",LIVE MANO WALTER
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054079
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="LIVE ROBERTO CARLOS" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",LIVE ROBERTO CARLOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054078
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="LIVE DO PODEROSO" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",LIVE DO PODEROSO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054077
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H PARA RELAXAR DORMIR" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",24H PARA RELAXAR DORMIR
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033949
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H PARA RELAXAR NATUREZA 1" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",24H PARA RELAXAR NATUREZA 1
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033948
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H PARA RELAXAR NATUREZA 2" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",24H PARA RELAXAR NATUREZA 2
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033947
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H PARA RELAXAR NATUREZA 3" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",24H PARA RELAXAR NATUREZA 3
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033946
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H PARA RELAXAR NATUREZA 4" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",24H PARA RELAXAR NATUREZA 4
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033945
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="24H PARA RELAXAR OCEANO" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",24H PARA RELAXAR OCEANO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033944
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ALINE BARROS LIVE QUARENTENA" tvg-logo="" group-title="ESPECIAIS CLIPS MUSICAIS",ALINE BARROS LIVE QUARENTENA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10035263
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="BRUNO E MARRONE LIVE QUARENTENA" tvg-logo="https://s2.glbimg.com/0J2E3HwT_hiw_71Qe5Vqi3VASFs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/5/P/KOnhoFSeGiJas3HzTbqw/bruno-e-marrone-live.jpg" group-title="ESPECIAIS CLIPS MUSICAIS",BRUNO E MARRONE LIVE QUARENTENA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034291
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DJ DENNIS LIVE QUARENTENA" tvg-logo="https://lh3.googleusercontent.com/proxy/qTPZ8P89ng8_DAXLn5-CyoUa7jJ5VRpmBZ3mgpC6aOskHBIIEUP5mcyjhJXejj9Yjcgbi9Lmy9gQBICbj_33RH0NKHUOTGHQgYISguhEfqpD" group-title="ESPECIAIS CLIPS MUSICAIS",DJ DENNIS LIVE QUARENTENA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034293
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="GUSTAVO LIMA LIVE BUTECO EM CASA" tvg-logo="https://i.ytimg.com/vi/Up91Ohbrz8Q/maxresdefault.jpg" group-title="ESPECIAIS CLIPS MUSICAIS",GUSTAVO LIMA LIVE BUTECO EM CASA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034289
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="INIMIGOS DA HP LIVE QUARENTENA" tvg-logo="https://i.imgur.com/wCzGqD2.png" group-title="ESPECIAIS CLIPS MUSICAIS",INIMIGOS DA HP LIVE QUARENTENA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10035261
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="JADS E JADSON LIVE DOS BRUTOS" tvg-logo="https://i.imgur.com/pZrTdQi.png" group-title="ESPECIAIS CLIPS MUSICAIS",JADS E JADSON LIVE DOS BRUTOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10035065
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="JORGE E MATEUS LIVE NA GARAGEM" tvg-logo="https://i.ytimg.com/vi/FT2PLTzwm_w/hqdefault.jpg86043922801_v2_1366x768.png" group-title="ESPECIAIS CLIPS MUSICAIS",JORGE E MATEUS LIVE NA GARAGEM
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034290
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="LIVE HENRIQUE E JULIANO 19/04" tvg-logo="https://i.imgur.com/FNnf9va.jpg" group-title="ESPECIAIS CLIPS MUSICAIS",LIVE HENRIQUE E JULIANO 19/04
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10035640
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MARCO E BELUTTI LIVE" tvg-logo="https://i.ytimg.com/vi/pVXqt3axjyo/hqdefault.jpg" group-title="ESPECIAIS CLIPS MUSICAIS",MARCO E BELUTTI LIVE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034364
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="MARILIA MENDONCA LIVE QUARENTENA" tvg-logo="https://s2.glbimg.com/cSnnSlAzrifE6PV5h77d9oh5vlI=/0x0:1700x1065/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/w/Z/CQPsFhS7KIDjYfjoZp2g/marilia2.jpg" group-title="ESPECIAIS CLIPS MUSICAIS",MARILIA MENDONCA LIVE QUARENTENA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034292
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="PERICLES LIVE" tvg-logo="https://i.imgur.com/JJ3fzJj.png" group-title="ESPECIAIS CLIPS MUSICAIS",PERICLES LIVE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10035068
+#EXTINF:-1 tvg-id="EliteEngDoHawaii.br" tvg-name="SHOW ENGENHEIROS DO HAWAII" tvg-logo="https://1.bp.blogspot.com/-lc-xq1q1xaw/XFygW8KWCjI/AAAAAAAAC3Q/4hCN1w1y6pYbVNwqu0h_F_z59Y2lgB9EACLcBGAs/s1600/engenheirosdohawaii.png" group-title="ESPECIAIS CLIPS MUSICAIS",SHOW ENGENHEIROS DO HAWAII
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11144
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="SOLANGE ALMEIDA LIVE" tvg-logo="https://i.imgur.com/H4lRREu.png" group-title="ESPECIAIS CLIPS MUSICAIS",SOLANGE ALMEIDA LIVE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10035066
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ZE NETO E CRISTIANO LIVE" tvg-logo="https://i.imgur.com/r6dUHzH.png" group-title="ESPECIAIS CLIPS MUSICAIS",ZE NETO E CRISTIANO LIVE
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10035063
+#EXTINF:-1 tvg-id="EliteQueenMontreal.br" tvg-name="24H QUEENS ROCK MONTREAL" tvg-logo="https://1.bp.blogspot.com/-AjuNDn6ETsQ/XFyk8Ajm3II/AAAAAAAAC3w/y2OyPl3pKdU5Am8xk_QgktplGH8ITAqWwCLcBGAs/s1600/queenmontreal.png" group-title="ESPECIAIS CLIPS MUSICAIS",24H QUEENS ROCK MONTREAL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11142
+#EXTINF:-1 tvg-id="EliteKidAbelhaAcustico.br" tvg-name="24H KID ABELHA ACUSTICO" tvg-logo="https://2.bp.blogspot.com/-5_MpJUu577k/XFyhkXA-CBI/AAAAAAAAC3k/tFQpFT1IIE05CxOn-1LS198NfK3g8oY-ACLcBGAs/s1600/kidabelhaacustico.png" group-title="ESPECIAIS CLIPS MUSICAIS",24H KID ABELHA ACUSTICO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/11143
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE 4 AMIGOS STAND UP COMEDY" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE 4 AMIGOS STAND UP COMEDY
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033980
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE BADIN" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE BADIN
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033978
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE BOOM" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE BOOM
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033976
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE EDU PRIMITIVO" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE EDU PRIMITIVO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033972
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE ENCRENCA REDETV" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE ENCRENCA REDETV
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033971
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE INCRIVEL" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE INCRIVEL
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033966
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE MASTER TRASH E PANICO CHEF" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE MASTER TRASH E PANICO CHEF
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033964
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE PAGODE DA OFENSA NA WEB" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE PAGODE DA OFENSA NA WEB
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033961
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE PANICO TROLLAGENS" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE PANICO TROLLAGENS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033960
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE PARAFERNALHA" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE PARAFERNALHA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033959
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE PORTA DOS FUNDOS" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE PORTA DOS FUNDOS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033958
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE VOCE NA TV" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE VOCE NA TV
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033954
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE VOCE SABIA PART 1" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE VOCE SABIA PART 1
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033953
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE VOCE SABIA PART 2" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE VOCE SABIA PART 2
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033952
+#EXTINF:-1 tvg-id="" tvg-name="24H CANAL YOUTUBE WEBBULLYING" tvg-logo="https://i.imgur.com/o5cQGhv.png" group-title="ESPECIAIS YOUTUBERS 24HRS",24H CANAL YOUTUBE WEBBULLYING
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10033951
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ELITE EVANGELICO 24H" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-evangelico-3.png" group-title="RELIGIOSOS",ELITE EVANGELICO 24H
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034287
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="JOSE DO EGITO 24H" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/274585/1245918-4-optimized.jpg" group-title="RELIGIOSOS",JOSE DO EGITO 24H
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10034285
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DRAGON BALL Z - SAGA DO GARLIC JR" tvg-logo="" group-title="DESENHOS 24HORAS",DRAGON BALL Z - SAGA DO GARLIC JR
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054087
+#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGON BALL Z - SAGA DO TORNEIO DO OUTRO MUNDO" tvg-logo="" group-title="DESENHOS 24HORAS",DRAGON BALL Z - SAGA DO TORNEIO DO OUTRO MUNDO
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054086
+#EXTINF:-1 tvg-id="EliteDBZ.br" tvg-name="DRAGON BALL Z - SAGA DOS SAYAJINS" tvg-logo="" group-title="DESENHOS 24HORAS",DRAGON BALL Z - SAGA DOS SAYAJINS
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054085
+#EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="DRAGON BALL Z - SAGA DO FREEZA" tvg-logo="" group-title="DESENHOS 24HORAS",DRAGON BALL Z - SAGA DO FREEZA
+http://stbup.com:80/Wendel4022/nM4cL1lsLU/10054084
